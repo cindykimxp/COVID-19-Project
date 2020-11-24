@@ -1,5 +1,5 @@
 import pandas as pd
-import random
+import random, csv
 #----------------------------------------------------------------------------------------
 # make corpora, develop (10%), train (80%), test (10%)
 COVID_data = pd.read_csv('COVID_data.csv')
