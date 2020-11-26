@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd 
 import random, csv
 #----------------------------------------------------------------------------------------
 # make corpora, develop (10%), train (80%), test (10%)
