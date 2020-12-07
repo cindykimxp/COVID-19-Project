@@ -1,0 +1,4048 @@
+covid19	388
+covid-19	261
+today	174
+live	135
+amp	123
+test	123
+state	123
+update	120
+coronavirus	108
+health	101
+watch	98
+provide	91
+work	81
+help	79
+response	78
+continue	76
+pandemic	74
+spread	72
+press	71
+new	65
+case	60
+hold	60
+thank	57
+take	57
+ohio	54
+visit	52
+inthistogetherohio	52
+care	51
+business	50
+information	50
+people	49
+protect	49
+governor	48
+testing	47
+support	46
+keep	46
+public	46
+conference	45
+de	45
+day	44
+la	43
+week	41
+data	41
+effort	41
+arizona	41
+time	41
+not	41
+stay	41
+across	40
+call	40
+school	39
+fight	39
+home	38
+make	37
+tune	37
+virus	37
+missouri	37
+county	35
+free	35
+site	34
+relief	34
+safe	34
+one	34
+local	33
+community	32
+join	32
+briefing	31
+resource	31
+announce	30
+discuss	30
+important	30
+administration	29
+service	29
+emergency	29
+order	29
+team	28
+force	28
+available	28
+covid19ohioready	28
+find	27
+see	27
+medical	27
+together	27
+virtual	27
+great	27
+life	27
+facebook	26
+fund	26
+include	26
+step	26
+impact	25
+director	25
+learn	25
+slow	25
+worker	24
+task	24
+many	24
+good	24
+million	24
+increase	24
+safety	24
+mask	24
+risk	23
+high	23
+part	23
+economy	23
+first	23
+go	23
+weekend	22
+back	22
+news	22
+dr.	22
+covid19ma	22
+positive	22
+please	22
+ct	22
+ask	22
+number	21
+follow	21
+aztogether	21
+family	20
+facility	20
+grateful	20
+healthy	20
+que	20
+economic	20
+social	20
+el	20
+strong	20
+use	20
+ensure	20
+job	20
+open	19
+thanks	19
+federal	19
+program	19
+patient	19
+yesterday	19
+hard	19
+read	19
+brief	19
+know	19
+report	18
+hospital	18
+recovery	18
+throughout	18
+sign	18
+question	18
+president	18
+del	18
+plan	18
+still	18
+sick	18
+government	18
+action	18
+azdhs	18
+way	17
+come	17
+meet	17
+receive	17
+twitter	17
+small	17
+want	17
+hotline	17
+leader	17
+n't	17
+location	16
+additional	16
+no	16
+late	16
+healthcare	16
+responsiblerestartohio	16
+give	16
+et	16
+west	16
+center	16
+remain	15
+american	15
+last	15
+arkansas	15
+para	15
+distancing	15
+realdonaldtrump	15
+en	15
+az	15
+symptom	15
+kid	15
+prepare	15
+staysafeohio	15
+look	15
+encourage	15
+flu	15
+stayhomeohio	15
+alaska	14
+covid	14
+student	14
+executive	14
+prevent	14
+outbreak	14
+wv	14
+wvgov	14
+issue	14
+guidance	14
+line	14
+masksonohio	14
+others	14
+individual	14
+provider	14
+say	14
+two	14
+year	14
+capacity	14
+leadership	13
+meeting	13
+vulnerable	13
+citizen	13
+hutchinson	13
+professional	13
+act	13
+able	13
+appreciate	13
+tennessee	13
+low	13
+long-term	13
+also	13
+utah	13
+unemployment	13
+month	13
+assist	13
+respond	13
+event	13
+partner	13
+face	13
+al	12
+alpolitics	12
+critical	12
+resident	12
+group	12
+offer	12
+lose	12
+whitehouse	12
+access	12
+country	12
+reopen	12
+full	12
+always	12
+answer	12
+info	12
+justice	12
+toll-free	12
+funding	12
+los	12
+hand	12
+front	12
+arizonans	12
+next	12
+provides	12
+let	12
+july	11
+food	11
+akgov	11
+assistance	11
+morning	11
+preparation	11
+dakota	11
+nebraska	11
+tomorrow	11
+official	11
+ongoing	11
+cnmi	11
+combat	11
+ppe	11
+commonwealth	11
+child	11
+supply	11
+hour	11
+guideline	11
+livestream	11
+well	11
+forward	11
+priority	11
+remember	10
+healthylivingmo	10
+member	10
+vp	10
+staff	10
+education	10
+youtube	10
+top	10
+talk	10
+put	10
+begin	10
+updated	10
+place	10
+return	10
+house	10
+contact	10
+need	10
+south	10
+wear	10
+responder	10
+everything	10
+essential	10
+challenge	10
+con	10
+gathering	10
+proud	10
+start	10
+move	10
+sure	10
+stop	10
+result	10
+general	10
+national	10
+online	10
+workforce	9
+hospitalization	9
+area	9
+address	9
+decision	9
+department	9
+texas	9
+txlege	9
+north	9
+happen	9
+gov	9
+ricketts	9
+progress	9
+missourians	9
+extend	9
+tennesseans	9
+gapol	9
+partnership	9
+distribute	9
+feel	9
+medium	9
+loan	9
+statewide	9
+idaho	9
+require	9
+close	9
+joe	9
+torres	9
+share	9
+cdcgov	9
+focus	9
+save	9
+operation	9
+special	9
+direct	9
+best	9
+rural	8
+currently	8
+cares	8
+grant	8
+possible	8
+flattenthecurve	8
+system	8
+adapt	8
+travel	8
+measure	8
+affect	8
+recover	8
+recent	8
+regard	8
+details	8
+safely	8
+apply	8
+surge	8
+thing	8
+create	8
+someone	8
+drop	8
+mike	8
+due	8
+phase	8
+death	8
+population	8
+thursday	8
+speak	8
+right	8
+crisis	8
+detail	8
+rapid	8
+nation	8
+nursing	8
+exposure	7
+monitor	7
+large	7
+bring	7
+dashboard	7
+change	7
+rise	7
+broadband	7
+check	7
+show	7
+las	7
+todos	7
+guard	7
+quickly	7
+role	7
+serve	7
+law	7
+wash	7
+city	7
+march	7
+in-depth	7
+tonight	7
+virginia	7
+battle	7
+alert	7
+lead	7
+loss	7
+proactive	7
+parson	7
+hhsgov	7
+oklahoma	7
+rate	7
+june	7
+april	7
+already	7
+big	7
+ralph	7
+dlg	7
+senior	7
+confirm	7
+contain	7
+shot	7
+agency	7
+innovative	6
+pop-up	6
+beginning	6
+hospitalize	6
+level	6
+dramyacton	6
+novel	6
+ventilator	6
+employer	6
+restaurant	6
+nd	6
+mental	6
+livelihood	6
+august	6
+hope	6
+pass	6
+activity	6
+parent	6
+potential	6
+practice	6
+equipment	6
+hero	6
+alpublichealth	6
+soon	6
+hit	6
+china	6
+inform	6
+develop	6
+maintain	6
+away	6
+announcement	6
+distance	6
+bulletin	6
+frontline	6
+four	6
+friend	6
+approach	6
+thread	6
+tool	6
+nddoh	6
+florida	6
+opportunity	6
+governors	6
+monday	6
+nearly	6
+minute	6
+long	6
+post	6
+disaster	6
+hampshire	6
+vermont	6
+early	6
+inthistogether	6
+bank	6
+honor	6
+unified-command	6
+prayer	6
+confirmed	6
+vigilant	5
+reduce	5
+division	5
+thousand	5
+media	5
+fact	5
+york	5
+fly	5
+message	5
+allow	5
+project	5
+importance	5
+alabama	5
+discussion	5
+date	5
+bill	5
+congress	5
+do	5
+washington	5
+missouri_ng	5
+por	5
+nuestra	5
+proteger	5
+white	5
+neighbor	5
+una	5
+sobre	5
+current	5
+play	5
+vital	5
+continued	5
+total	5
+security	5
+enforcement	5
+highlight	5
+application	5
+wednesday	5
+reminder	5
+listen	5
+biden	5
+world	5
+bad	5
+regional	5
+limit	5
+account	5
+fake	5
+expect	5
+company	5
+medidas	5
+dollar	5
+precaution	5
+clear	5
+commissioner	5
+mark	5
+beat	5
+donate	5
+frequently	5
+pray	5
+love	5
+teresa	5
+station	5
+icymi	5
+noon	5
+pre-register	5
+average	5
+aid	5
+connect	5
+emerge	5
+ever	5
+employee	5
+note	5
+coming	5
+pcr	5
+doctor	5
+nurse	5
+americans	5
+page	5
+avoid	5
+tv	5
+pbs	5
+financial	5
+cost	5
+football	5
+click	5
+never	5
+nonprofit	5
+without	5
+disease	5
+link	5
+dedication	5
+chcc	5
+send	5
+compare	5
+add	4
+closely	4
+drive-through	4
+half	4
+around	4
+poor	4
+azfamily	4
+submit	4
+legislator	4
+labor	4
+development	4
+tough	4
+identify	4
+wyoming	4
+mohospitals	4
+hospitalized	4
+lot	4
+set	4
+mobile	4
+texans	4
+sit	4
+college	4
+university	4
+trend	4
+crucial	4
+launch	4
+daily	4
+ready	4
+remind	4
+effect	4
+responsibility	4
+togetheral	4
+tour	4
+telehealth	4
+como	4
+wmur9	4
+oklahomans	4
+billion	4
+bipartisan	4
+initiative	4
+schedule	4
+conduct	4
+numerous	4
+classroom	4
+website	4
+ante	4
+donation	4
+trace	4
+utcovid19	4
+georgia	4
+alaska_dhss	4
+piece	4
+personal	4
+protective	4
+caresact	4
+corporation	4
+potus	4
+midst	4
+preparedness	4
+effective	4
+physical	4
+wustl	4
+easy	4
+foxnews	4
+office	4
+list	4
+helpful	4
+expose	4
+hemos	4
+point	4
+red	4
+period	4
+owner	4
+reflect	4
+curve	4
+town	4
+nh	4
+insurance	4
+virginians	4
+campus	4
+afternoon	4
+suspend	4
+pandemia	4
+emergencia	4
+randall	4
+williams	4
+lady	4
+mo	4
+ltgovhusted	4
+volunteer	4
+utahns	4
+run	4
+alabamians	4
+fellow	4
+expansion	4
+celebrate	4
+granite	4
+staters	4
+far	4
+tie	4
+drcarachrist	4
+hoy	4
+enemy	4
+market	4
+major	4
+release	4
+worship	4
+management	4
+ar	4
+expand	4
+future	4
+vaccine	4
+legislation	4
+mississippi	4
+determine	4
+responsibly	4
+several	4
+thankful	4
+radio	4
+npr	4
+affiliate	4
+necessary	4
+wellbeing	4
+believe	4
+tn	4
+treatment	4
+businesses	4
+immediately	4
+showmestrong	4
+encouraging	4
+vermonters	4
+administer	4
+tax	4
+build	4
+quarantine	4
+sacrifice	4
+file	4
+tiene	4
+recap	3
+previous	3
+reach	3
+goal	3
+outpatient	3
+expanded	3
+mbta	3
+delivery	3
+age	3
+park	3
+corner	3
+cuomo	3
+aznationalguard	3
+alaskans	3
+pence	3
+ability	3
+floridachannel	3
+claim	3
+hoosiers	3
+accord	3
+deborah	3
+institution	3
+protocol	3
+six	3
+commitment	3
+improve	3
+annette	3
+men	3
+woman	3
+informed	3
+text	3
+road	3
+evolve	3
+tomando	3
+necesarias	3
+salud	3
+junto	3
+almost	3
+unprecedented	3
+teacher	3
+idahocovid19	3
+estevirusloparamosunidos	3
+tndeptofhealth	3
+navigate	3
+recently	3
+prevenir	3
+generous	3
+track	3
+truly	3
+supt_hoffman	3
+flexibility	3
+es	3
+está	3
+chance	3
+process	3
+distribution	3
+leave	3
+loved	3
+host	3
+harris	3
+permit	3
+relate	3
+sbagov	3
+accept	3
+madeinal	3
+personnel	3
+massdph	3
+organization	3
+workplace	3
+st.	3
+die	3
+analysis	3
+model	3
+w/	3
+saliva	3
+quick	3
+pre-registration	3
+dangerous	3
+balance	3
+cincinnati	3
+september	3
+betsydevosed	3
+advantage	3
+defiance	3
+november	3
+co	3
+present	3
+waive	3
+benefit	3
+understand	3
+hall	3
+think	3
+rebound	3
+orders	3
+unified	3
+command	3
+regarding	3
+declare	3
+moment	3
+air	3
+poder	3
+isla	3
+esta	3
+situación	3
+approve	3
+ramp	3
+prepared	3
+power	3
+deal	3
+enter	3
+behind	3
+joined	3
+map	3
+unnecessary	3
+mountain	3
+maryvale	3
+picture	3
+whole	3
+america	3
+frontlines	3
+amidst	3
+employment	3
+swine	3
+epidemic	3
+clue	3
+expert	3
+experience	3
+second	3
+tragic	3
+stayhome	3
+infection	3
+médico	3
+real	3
+young	3
+fayette	3
+thankyou	3
+church	3
+un	3
+minority	3
+chairman	3
+homeland	3
+fall	3
+increased	3
+demand	3
+statement	3
+record	3
+michael	3
+ohdeptofhealth	3
+round	3
+source	3
+old	3
+stream	3
+god	3
+prioritize	3
+webinar	3
+correctional	3
+recognize	3
+pay	3
+thearizonaway	3
+scenario	3
+pastor	3
+charity	3
+conversation	3
+well-being	3
+award	3
+wish	3
+prison	3
+spirit	3
+game	3
+medicaid	3
+agriculture	3
+industry	3
+ohioans	3
+fear	3
+trump	3
+assure	3
+shield	3
+significant	3
+appointment	3
+accountability	3
+directly	3
+store	3
+english	3
+spanish	3
+illness	3
+operate	3
+glad	3
+stand	3
+services	3
+request	3
+coordinate	3
+teamcavuto	3
+hear	3
+icu	3
+alleviate	3
+become	3
+resilient	3
+session	3
+alarm	3
+global	3
+resources	3
+really	3
+ago	3
+seek	3
+display	3
+flatten	3
+sector	3
+little	3
+asymptomatic	3
+season	3
+spring	3
+serious	3
+saturday	3
+critically	3
+maryland	3
+estos	3
+cover	3
+ahead	3
+often	3
+injury	3
+commit	3
+dedicate	3
+end	3
+district	3
+mean	3
+interested	3
+looking	3
+negative	3
+massachusetts	3
+protection	3
+stanford	3
+simple	3
+gobierno	3
+confront	3
+hardship	3
+puerto	3
+rico	3
+memorial	3
+popup	3
+income	3
+democrats	3
+sanitizer	3
+tribal	3
+cont	2
+despite	2
+cuyahoga	2
+three	2
+grand	2
+doubt	2
+unite	2
+cityofboston	2
+ymca_boston	2
+gr8bosfoodbank	2
+insecurity	2
+range	2
+co.	2
+incidence	2
+yard	2
+gown	2
+dougducey	2
+ak	2
+urge	2
+participate	2
+volume	2
+jobs4_tn	2
+according	2
+ventilate	2
+birx	2
+informal	2
+protocols	2
+table	2
+magazine	2
+typically	2
+nationally	2
+quality	2
+internet	2
+moecodevo	2
+farm	2
+clarity	2
+blunt	2
+weekly	2
+behavioral	2
+oklaproud	2
+overwhelm	2
+covidma	2
+envíe	2
+covidmaesp	2
+compass	2
+continuar	2
+pueblo	2
+nos	2
+course	2
+tune-in	2
+innovate	2
+improved	2
+customer	2
+community-based	2
+title	2
+mission	2
+amount	2
+money	2
+reopening	2
+instruction	2
+ayudar	2
+easily	2
+propagación	2
+connects	2
+togetherutah	2
+latest	2
+waiver	2
+effectively	2
+senatorlankford	2
+finish	2
+posible	2
+cierre	2
+election	2
+voter	2
+vote	2
+at-risk	2
+socialdistancing	2
+sat	2
+budget	2
+ems	2
+using	2
+brave	2
+scott	2
+constituent	2
+outside	2
+visitor	2
+childcare	2
+ironton	2
+masks	2
+alternate	2
+louis	2
+asubiodesign	2
+rating	2
+handle	2
+situation	2
+advisory	2
+hogan	2
+md	2
+aware	2
+tomado	2
+cumplimiento	2
+seguridad	2
+recommendation	2
+limited	2
+st	2
+columbus	2
+turn	2
+uarizona	2
+uarizonapres	2
+entire	2
+occur	2
+organizations	2
+veteran	2
+anxiety	2
+physically	2
+arizonades	2
+utility	2
+asap	2
+within	2
+requiring	2
+immensely	2
+tireless	2
+international	2
+ship	2
+cancel/postpone	2
+toward	2
+healthvermont	2
+outdoor	2
+interaction	2
+resume	2
+indicate	2
+gt	2
+assessment	2
+invite	2
+operations	2
+eligible	2
+cash	2
+returnstronger	2
+remark	2
+evening	2
+cathy	2
+sad	2
+well-positioned	2
+mitigate	2
+sport	2
+tnpledge	2
+percentage	2
+however	2
+prioridad	2
+agencias	2
+reunión	2
+entre	2
+certainty	2
+on-air	2
+mild	2
+struggle	2
+applications	2
+mosema_	2
+deploy	2
+drug	2
+fully	2
+respect	2
+sympathy	2
+pick	2
+regardless	2
+traditional	2
+tremendously	2
+write	2
+book	2
+crime	2
+dema	2
+avenue	2
+phoenix	2
+october	2
+percent	2
+positivity	2
+funds	2
+constitution	2
+implement	2
+training	2
+azcommerce	2
+transportation	2
+expedite	2
+resilience	2
+difficult	2
+nhesworking	2
+incredible	2
+h1n1	2
+less	2
+history	2
+involve	2
+etc	2
+corrupt	2
+buy	2
+ca	2
+carry	2
+seriously	2
+no-cost	2
+recomendaciones	2
+todo	2
+domingo	2
+war	2
+ease	2
+closure	2
+massive	2
+availability	2
+ohioan	2
+fairgrounds	2
+problem	2
+certainly	2
+drive-in	2
+atender	2
+cualquier	2
+kanawha	2
+warren	2
+villagomez	2
+assistant	2
+gerald	2
+deleon	2
+guerrero	2
+commonwealth…	2
+unlock	2
+sanfordhealth	2
+welcome	2
+burden	2
+sept.	2
+lab	2
+huge	2
+ohiomhas	2
+salute	2
+nationaldoctorsday	2
+deserve	2
+yet	2
+facilities	2
+authority	2
+strategy	2
+aztestingblitz	2
+lift	2
+example	2
+non-essential	2
+trip	2
+religious	2
+probable	2
+inmate	2
+engage	2
+afraid	2
+protecting	2
+chuck	2
+purpose	2
+drcohio	2
+tracing	2
+hotspot	2
+congrats	2
+recipient	2
+applaud	2
+purchase	2
+glove	2
+supportlocalohio	2
+farmer	2
+ohioproud	2
+feeling	2
+kit	2
+swiftly	2
+foundation	2
+afthunderbirds	2
+flight	2
+austin	2
+san	2
+antonio	2
+tuesday	2
+americastrong	2
+slowthespread	2
+stimulus	2
+grocery	2
+holiday	2
+dial	2
+related	2
+phased	2
+united	2
+housing	2
+metro	2
+active	2
+human	2
+player	2
+infect	2
+function	2
+pleased	2
+mopublicsafety	2
+sandy	2
+karsten	2
+mentalhealthmo	2
+modot	2
+osuwexmed	2
+salem	2
+transmission	2
+limiting	2
+mocorrections	2
+anne	2
+chattanooga	2
+bed	2
+incredibly	2
+ct.	2
+acción	2
+holding	2
+pull	2
+obama	2
+kill	2
+orden	2
+comprehensive	2
+flyover	2
+region	2
+usairforce	2
+extension	2
+depend	2
+educate	2
+solution	2
+hydroxychloroquine	2
+significantly	2
+henry	2
+usual	2
+pace	2
+targeted	2
+azcentral	2
+molabor	2
+proclamation	2
+habit	2
+private	2
+reliable	2
+physician	2
+hardworking	2
+georgians	2
+rehab	2
+bluff	2
+rock	2
+adjutant	2
+carrier	2
+later	2
+hoosier	2
+commission	2
+drive	2
+faith	2
+sense	2
+common	2
+word	2
+lend	2
+vacunación	2
+urgent	2
+isolate	2
+prevalence	2
+shelter	2
+sunday	2
+fatality	2
+terrible	2
+half-staff	2
+cada	2
+network	2
+bear	2
+much-needed	2
+collaboration	2
+key	2
+nebraskans	2
+advance	2
+shift	2
+limestone	2
+street	2
+fiscally	2
+influenza	2
+amazing	2
+memphis	2
+esther	2
+l.	2
+starting	2
+tennessean	2
+indiana	2
+massltgov	2
+survivor	2
+taskforce	2
+declaration	2
+stadium	2
+chain	2
+cancel	2
+upon	2
+u.s.	2
+working	2
+wake	2
+head	2
+eligibility	2
+near	2
+ceo	2
+stress	2
+han	2
+assembly	2
+position	2
+weather	2
+responsible	2
+true	2
+delay	2
+courage	2
+manufacturer	2
+production	2
+produce	2
+manufacturing	2
+payment	2
+non-profits	2
+swift	2
+ph.d.	2
+levitt	2
+nobel	2
+laureate	2
+rest	2
+hospitals	2
+deadline	2
+presente	2
+farmers	2
+h2ohio	2
+five	2
+guidelines	2
+strengthen	2
+ga	2
+siendo	2
+suppress	2
+earlier	2
+exceed	2
+honored	2
+shut	2
+friday	2
+hospitalizations	2
+direction	2
+dayton	2
+mistake	2
+science	2
+statehealthin	2
+interview	2
+uptick	2
+todd	2
+form	2
+antigen	2
+approximately	2
+voluntarily	2
+freedom	2
+enjoy	2
+method	2
+overall	2
+learning	2
+disrupt	2
+forget	2
+milestone	2
+trumanmedkc	2
+kansas	2
+win	2
+smart	2
+patience	2
+upcoming	2
+vaccination	2
+disruptive	2
+room	2
+drive-thru	2
+difference	2
+ban	2
+bravery	2
+reserve	2
+parents	2
+chinavirus	2
+restriction	2
+easter	2
+discutir	2
+atendiendo	2
+hacer	2
+disinfect	2
+n95	2
+cold	2
+usa	2
+miembros	2
+app	2
+c.0 i.67 p.r s.alabama u.@governorkayivey 2020-06-23 19:14:45+00:00	1
+awc	1
+awib	1
+goewt	1
+momentum	1
+high-skilled	1
+c.1 i.4656 p.r s.ohio u.@govmikedewine 2020-07-16 18:45:07+00:00	1
+triple	1
+c.2 i.6371 p.r s.tennessee u.@govbilllee 2020-04-30 17:05:14+00:00	1
+c.3 i.4398 p.r s.ohio u.@govmikedewine 2020-10-06 18:24:56+00:00	1
+urban	1
+c.4 i.2447 p.r s.massachussetts u.@massgovernor 2020-06-05 21:33:06+00:00	1
+bostonglobe	1
+c.5 i.1548 p.r s.arkansas u.@asahutchinson 2020-03-19 19:28:20+00:00	1
+c.6 i.3318 p.r s.missouri u.@govparsonmo 2020-04-06 14:58:10+00:00	1
+c.7 i.4259 p.r s.ohio u.@govmikedewine 2020-11-09 14:01:00+00:00	1
+ross	1
+nearby	1
+yoctangee	1
+rd./yaple	1
+rd	1
+c.8 i.7665 p.r s.vp2016 u.@mike_pence 2020-08-04 03:23:33+00:00	1
+heart	1
+grieve	1
+c.9 i.812 p.r s.arizona u.@dougducey 2020-04-13 20:15:00+00:00	1
+surgical	1
+cloth	1
+dignityhealthaz	1
+honorhealth	1
+c.10 i.7700 p.r s.vp2016 u.@mike_pence 2020-07-01 15:00:53+00:00	1
+heading	1
+dhs_wolf	1
+c.11 i.224 p.r s.alaska u.@govdunleavy 2020-08-21 01:12:52+00:00	1
+proposal	1
+akleg	1
+c.12 i.1438 p.r s.arkansas u.@asahutchinson 2020-04-22 15:47:09+00:00	1
+c.13 i.1267 p.r s.arkansas u.@asahutchinson 2020-08-10 22:10:33+00:00	1
+accessibility	1
+c.14 i.1617 p.r s.florida u.@govrondesantis 2020-08-03 15:01:52+00:00	1
+browardhealth	1
+ft.	1
+lauderdale	1
+c.15 i.6463 p.r s.tennessee u.@govbilllee 2020-04-08 18:38:58+00:00	1
+diligently	1
+reprogram	1
+accommodate	1
+c.16 i.2205 p.r s.indiana u.@govholcomb 2020-03-26 18:43:15+00:00	1
+updating	1
+c.17 i.5041 p.r s.ohio u.@govmikedewine 2020-04-10 18:30:56+00:00	1
+c.18 i.7521 p.r s.wyoming u.@governorgordon 2020-02-04 23:09:11+00:00	1
+suspected	1
+c.19 i.3149 p.r s.missouri u.@govparsonmo 2020-05-27 14:00:08+00:00	1
+c.20 i.6647 p.r s.texas u.@gregabbott_tx 2020-04-15 22:19:36+00:00	1
+tomball	1
+humble	1
+c.21 i.2990 p.r s.missouri u.@govparsonmo 2020-08-18 14:00:27+00:00	1
+coordinator	1
+brix	1
+c.22 i.6281 p.r s.tennessee u.@govbilllee 2020-07-07 21:55:23+00:00	1
+k-12	1
+proper	1
+accommodation	1
+educator	1
+c.23 i.7089 p.r s.west virginia u.@wvgovernor 2020-09-02 13:30:13+00:00	1
+c.24 i.1933 p.r s.idaho u.@governorlittle 2020-06-11 21:12:42+00:00	1
+nightclub	1
+c.25 i.2465 p.r s.massachussetts u.@massgovernor 2020-05-22 17:07:57+00:00	1
+c.26 i.654 p.r s.arizona u.@dougducey 2020-06-05 18:32:54+00:00	1
+markets	1
+phoenix-mesa-scottsdale	1
+millennial	1
+buyers	1
+realtor	1
+c.27 i.1154 p.r s.arkansas u.@asahutchinson 2020-10-25 19:45:52+00:00	1
+decrease	1
+relax	1
+discipline	1
+c.28 i.3270 p.r s.missouri u.@govparsonmo 2020-04-17 17:45:00+00:00	1
+selected	1
+c.29 i.950 p.r s.arizona u.@dougducey 2020-03-27 00:52:11+00:00	1
+jareddillingham	1
+c.30 i.4024 p.r s.north dakota u.@dougburgum 2020-08-19 17:19:50+00:00	1
+interactive	1
+further	1
+transparency	1
+dedicated	1
+c.31 i.3697 p.r s.nebraska u.@govricketts 2020-03-11 17:22:32+00:00	1
+best-prepared	1
+column	1
+c.32 i.3532 p.r s.nebraska u.@govricketts 2020-04-19 02:43:43+00:00	1
+nedhhs	1
+sheri	1
+dawson	1
+caring_provider	1
+dubas	1
+c.33 i.5593 p.r s.oklahoma u.@govstitt 2020-05-08 15:04:01+00:00	1
+pfc	1
+winters	1
+spc	1
+ferris	1
+okguard	1
+c.34 i.5182 p.r s.ohio u.@govmikedewine 2020-03-24 18:14:33+00:00	1
+c.35 i.2546 p.r s.massachussetts u.@massgovernor 2020-04-17 14:56:09+00:00	1
+manténgase	1
+informado	1
+c.36 i.6779 p.r s.utah u.@govherbert 2020-09-18 21:34:20+00:00	1
+performance	1
+spike	1
+jeopardize	1
+careless	1
+c.37 i.96 p.r s.alabama u.@governorkayivey 2020-04-30 14:04:23+00:00	1
+saferathome	1
+c.38 i.2915 p.r s.missouri u.@govparsonmo 2020-09-17 22:01:58+00:00	1
+warrenton	1
+dental	1
+c.39 i.242 p.r s.alaska u.@govdunleavy 2020-07-12 21:20:55+00:00	1
+alaskan	1
+c.40 i.5817 p.npp s.puerto rico u.@wandavazquezg 2020-04-11 23:49:47+00:00	1
+debemos	1
+fuertes	1
+unidos	1
+medicas	1
+precaución	1
+salvaguardar	1
+manteniendo	1
+fé	1
+comprensión	1
+este	1
+afecta	1
+solo	1
+podremos	1
+contra	1
+él	1
+c.41 i.1902 p.r s.idaho u.@governorlittle 2020-09-14 22:37:39+00:00	1
+teton	1
+investment	1
+connectivity	1
+c.42 i.3268 p.r s.missouri u.@govparsonmo 2020-04-17 20:02:06+00:00	1
+c.43 i.3783 p.r s.new hampshire u.@govchrissununu 2020-07-14 20:50:18+00:00	1
+c.44 i.5570 p.r s.oklahoma u.@govstitt 2020-05-27 20:09:57+00:00	1
+c.45 i.7216 p.r s.west virginia u.@wvgovernor 2020-05-29 17:00:44+00:00	1
+c.46 i.7821 p.r s.vp2016 u.@mike_pence 2020-03-06 03:32:39+00:00	1
+represent	1
+dc	1
+c.47 i.7530 p.r s.northern mariana islands u.@governorcnmi 2020-07-28 02:57:06+00:00	1
+c.48 i.3124 p.r s.missouri u.@govparsonmo 2020-06-04 15:49:44+00:00	1
+mid-august	1
+c.49 i.1914 p.r s.idaho u.@governorlittle 2020-08-06 19:41:11+00:00	1
+directing	1
+teach	1
+confidence	1
+in-person	1
+c.50 i.5888 p.npp s.puerto rico u.@wandavazquezg 2020-03-20 00:27:55+00:00	1
+agradezco	1
+también	1
+walmartpr	1
+escucha	1
+solicitud	1
+población	1
+adultos	1
+mayores	1
+c.51 i.6221 p.r s.tennessee u.@govbilllee 2020-10-21 15:48:57+00:00	1
+c.52 i.2727 p.r s.mississippi u.@tatereeves 2020-03-25 15:04:58+00:00	1
+self-quarantine	1
+accordingly	1
+c.53 i.3495 p.r s.nebraska u.@govricketts 2020-04-30 22:02:18+00:00	1
+vea	1
+ahora	1
+gobernador	1
+provee	1
+actualización	1
+respuesta	1
+estado	1
+formas	1
+residentes	1
+pueden	1
+c.54 i.441 p.r s.arizona u.@dougducey 2020-10-13 18:31:11+00:00	1
+ikeausa	1
+ikea_tempe	1
+c.55 i.1492 p.r s.arkansas u.@asahutchinson 2020-03-31 21:24:10+00:00	1
+projected	1
+adhpio	1
+c.56 i.6823 p.r s.utah u.@govherbert 2020-04-22 20:06:00+00:00	1
+enhance	1
+c.57 i.1826 p.r s.georgia u.@briankempga 2020-05-16 19:10:06+00:00	1
+feature	1
+language	1
+interpreter	1
+david	1
+cowan	1
+c.58 i.1020 p.r s.arizona u.@dougducey 2020-03-20 22:12:18+00:00	1
+c.59 i.5657 p.r s.oklahoma u.@govstitt 2020-03-30 22:11:33+00:00	1
+usda	1
+oksde	1
+c.60 i.5911 p.npp s.puerto rico u.@wandavazquezg 2020-03-16 09:48:30+00:00	1
+momento	1
+juntos	1
+podemos	1
+detener	1
+avance	1
+nuestras	1
+familias	1
+vigente	1
+hasta	1
+marzo	1
+yomequedoencasa	1
+c.61 i.6202 p.r s.south dakota u.@govkristinoem 2020-03-05 02:28:27+00:00	1
+walk	1
+detect	1
+c.62 i.3118 p.r s.missouri u.@govparsonmo 2020-06-04 22:12:51+00:00	1
+sb	1
+safeguard	1
+missourian	1
+consider	1
+c.63 i.4697 p.r s.ohio u.@govmikedewine 2020-07-08 17:19:00+00:00	1
+c.64 i.3130 p.r s.missouri u.@govparsonmo 2020-06-03 18:30:44+00:00	1
+columbia	1
+clergy	1
+underlie	1
+protest	1
+c.65 i.369 p.r s.alaska u.@govdunleavy 2020-03-27 01:59:22+00:00	1
+c.66 i.2486 p.r s.massachussetts u.@massgovernor 2020-05-12 15:13:37+00:00	1
+c.67 i.5207 p.r s.ohio u.@govmikedewine 2020-03-22 16:20:00+00:00	1
+advice	1
+jimtressel5	1
+possibly	1
+youngstownstate	1
+c.68 i.3857 p.r s.new hampshire u.@govchrissununu 2020-05-04 19:22:05+00:00	1
+police	1
+fire	1
+stipend	1
+c.69 i.2018 p.r s.indiana u.@govholcomb 2020-09-16 17:30:09+00:00	1
+c.70 i.7630 p.r s.northern mariana islands u.@governorcnmi 2020-03-19 08:02:53+00:00	1
+advise	1
+residents…	1
+c.71 i.152 p.r s.alabama u.@governorkayivey 2020-03-24 20:20:01+00:00	1
+joint	1
+outlet	1
+c.72 i.5436 p.r s.ohio u.@govmikedewine 2020-03-12 18:30:00+00:00	1
+psychiatric	1
+ohio_mhas	1
+c.73 i.162 p.r s.alabama u.@governorkayivey 2020-03-21 15:12:25+00:00	1
+nfib_al	1
+bcatoday	1
+edaainfo	1
+c.74 i.2874 p.r s.missouri u.@govparsonmo 2020-10-13 15:18:02+00:00	1
+designate	1
+c.75 i.4271 p.r s.ohio u.@govmikedewine 2020-11-06 23:15:00+00:00	1
+reynoldsburg	1
+c.76 i.2003 p.r s.idaho u.@governorlittle 2020-03-02 22:31:30+00:00	1
+carefully	1
+c.77 i.2497 p.r s.massachussetts u.@massgovernor 2020-05-05 21:12:13+00:00	1
+face-covering	1
+c.78 i.2619 p.r s.massachussetts u.@massgovernor 2020-03-23 14:27:55+00:00	1
+c.79 i.4686 p.r s.ohio u.@govmikedewine 2020-07-10 20:19:31+00:00	1
+c.80 i.2798 p.r s.missouri u.@govparsonmo 2020-11-03 01:44:00+00:00	1
+construction	1
+c.81 i.7879 p.r s.p2016 u.@realdonaldtrump 2020-09-30 01:35:28+00:00	1
+c.82 i.7936 p.r s.p2016 u.@realdonaldtrump 2020-05-28 14:34:10+00:00	1
+gift	1
+c.83 i.3125 p.r s.missouri u.@govparsonmo 2020-06-04 14:36:15+00:00	1
+c.84 i.438 p.r s.arizona u.@dougducey 2020-10-16 19:13:23+00:00	1
+c.85 i.758 p.r s.arizona u.@dougducey 2020-04-22 16:21:08+00:00	1
+c.86 i.8004 p.r s.p2016 u.@realdonaldtrump 2020-03-24 03:43:45+00:00	1
+hill/harrisx	1
+approval	1
+c.87 i.4946 p.r s.ohio u.@govmikedewine 2020-04-27 18:55:35+00:00	1
+base	1
+consequence	1
+c.88 i.7293 p.r s.west virginia u.@wvgovernor 2020-04-23 22:45:09+00:00	1
+martha	1
+maccallum	1
+c.89 i.7573 p.r s.northern mariana islands u.@governorcnmi 2020-04-29 04:50:55+00:00	1
+governor_ralph_glg_torres	1
+misinformation	1
+is…	1
+c.90 i.4725 p.r s.ohio u.@govmikedewine 2020-06-29 18:27:38+00:00	1
+ohnationalguard	1
+maj.	1
+gen.	1
+john	1
+c.91 i.2260 p.r s.maryland u.@larryhogan 2020-06-22 18:25:42+00:00	1
+foxbaltimore	1
+contribute	1
+efforts	1
+c.92 i.189 p.r s.alabama u.@governorkayivey 2020-03-12 15:57:24+00:00	1
+review	1
+extra	1
+c.93 i.1221 p.r s.arkansas u.@asahutchinson 2020-09-03 19:18:46+00:00	1
+c.94 i.778 p.r s.arizona u.@dougducey 2020-04-17 23:08:47+00:00	1
+spoke	1
+advocacy	1
+usedgov	1
+c.95 i.5793 p.npp s.puerto rico u.@wandavazquezg 2020-05-06 23:04:33+00:00	1
+asegurarnos	1
+puedan	1
+rendir	1
+respeto	1
+su	1
+ser	1
+querido	1
+establecidas	1
+evitar	1
+c.96 i.4071 p.r s.north dakota u.@dougburgum 2020-05-15 23:34:31+00:00	1
+ndsmartrestart	1
+control	1
+proceed	1
+size	1
+c.97 i.4200 p.r s.ohio u.@govmikedewine 2020-11-16 13:24:17+00:00	1
+maumee	1
+hamilton	1
+clairsville	1
+sidney	1
+toledo	1
+london	1
+hilliard	1
+proctorville	1
+c.98 i.7855 p.r s.p2016 u.@realdonaldtrump 2020-10-27 11:31:39+00:00	1
+wants	1
+hearing	1
+anymore	1
+rounding	1
+c.99 i.704 p.r s.arizona u.@dougducey 2020-05-05 17:53:15+00:00	1
+tucson-native	1
+savannahguthrie	1
+c.100 i.4629 p.r s.ohio u.@govmikedewine 2020-07-23 18:20:22+00:00	1
+cases—which	1
+two-week	1
+c.101 i.680 p.r s.arizona u.@dougducey 2020-05-18 19:24:22+00:00	1
+out-of-home	1
+educational	1
+affcf	1
+boostafosterfam	1
+c.102 i.3726 p.r s.new hampshire u.@govchrissununu 2020-10-27 11:36:46+00:00	1
+isolation	1
+heropups	1
+swim4amission	1
+pair	1
+dog	1
+train	1
+ptsd	1
+c.103 i.1238 p.r s.arkansas u.@asahutchinson 2020-08-26 19:52:49+00:00	1
+c.104 i.892 p.r s.arizona u.@dougducey 2020-04-01 19:53:14+00:00	1
+pet	1
+livestock	1
+producer	1
+properly	1
+animal	1
+c.105 i.857 p.r s.arizona u.@dougducey 2020-04-06 15:41:27+00:00	1
+c.106 i.6711 p.r s.texas u.@gregabbott_tx 2020-03-18 00:00:45+00:00	1
+investigation	1
+c.107 i.4547 p.r s.ohio u.@govmikedewine 2020-08-13 16:06:00+00:00	1
+c.108 i.6795 p.r s.utah u.@govherbert 2020-07-30 17:59:34+00:00	1
+c.109 i.1059 p.r s.arizona u.@dougducey 2020-03-17 19:34:44+00:00	1
+stopping	1
+dhalldbacks	1
+luisgonzo20	1
+dbacks	1
+c.110 i.308 p.r s.alaska u.@govdunleavy 2020-05-02 00:59:33+00:00	1
+c.111 i.6481 p.r s.tennessee u.@govbilllee 2020-04-02 21:48:37+00:00	1
+c.112 i.794 p.r s.arizona u.@dougducey 2020-04-16 02:56:34+00:00	1
+lightazblue	1
+c.113 i.5459 p.r s.ohio u.@govmikedewine 2020-03-10 18:34:09+00:00	1
+higher	1
+screen	1
+cruise	1
+eliminate	1
+university-sponsored	1
+online/remote	1
+c.114 i.6955 p.r s.vermont u.@govphilscott 2020-05-06 18:44:15+00:00	1
+levine	1
+recreation	1
+strict	1
+modeling	1
+c.115 i.2506 p.r s.massachussetts u.@massgovernor 2020-05-01 16:17:23+00:00	1
+thenationsfirst	1
+massema	1
+wide	1
+front-line	1
+massearlyedcare	1
+c.116 i.3488 p.r s.nebraska u.@govricketts 2020-05-04 22:53:22+00:00	1
+crush	1
+five-minute	1
+testnebraskachallenge	1
+c.117 i.4928 p.r s.ohio u.@govmikedewine 2020-04-29 18:47:49+00:00	1
+stroke	1
+c.118 i.3438 p.r s.nebraska u.@govricketts 2020-10-02 00:54:44+00:00	1
+netnebraska	1
+nde_commish	1
+unmc	1
+c.119 i.1026 p.r s.arizona u.@dougducey 2020-03-20 13:50:15+00:00	1
+repandybiggsaz	1
+c.120 i.646 p.r s.arizona u.@dougducey 2020-06-12 18:20:31+00:00	1
+locations	1
+c.121 i.6197 p.r s.south dakota u.@govkristinoem 2020-03-12 20:14:39+00:00	1
+livestreaming	1
+c.122 i.6190 p.r s.south dakota u.@govkristinoem 2020-03-14 16:20:35+00:00	1
+happening	1
+c.123 i.3360 p.r s.missouri u.@govparsonmo 2020-03-24 19:10:00+00:00	1
+grandfather	1
+grandchild	1
+c.124 i.1939 p.r s.idaho u.@governorlittle 2020-05-27 15:15:00+00:00	1
+self-employed	1
+economically	1
+c.125 i.6512 p.r s.tennessee u.@govbilllee 2020-03-23 23:01:59+00:00	1
+c.126 i.3784 p.r s.new hampshire u.@govchrissununu 2020-07-14 19:21:12+00:00	1
+nhnationalguard	1
+field	1
+invaluable	1
+c.127 i.679 p.r s.arizona u.@dougducey 2020-05-18 19:59:39+00:00	1
+srp	1
+contribution	1
+srpconnect	1
+c.128 i.4811 p.r s.ohio u.@govmikedewine 2020-06-05 18:42:17+00:00	1
+c.129 i.1605 p.r s.florida u.@govrondesantis 2020-08-12 22:04:08+00:00	1
+floridians	1
+c.130 i.3970 p.r s.new hampshire u.@govchrissununu 2020-03-14 17:53:21+00:00	1
+rapidly	1
+preventative	1
+notice	1
+c.131 i.718 p.r s.arizona u.@dougducey 2020-04-30 17:49:09+00:00	1
+step-by-step	1
+benefits	1
+c.132 i.2597 p.r s.massachussetts u.@massgovernor 2020-03-31 01:24:40+00:00	1
+holyoke	1
+soldiers	1
+occasion	1
+catch	1
+heartbroken	1
+shuddering	1
+c.133 i.7380 p.r s.west virginia u.@wvgovernor 2020-03-29 23:38:03+00:00	1
+virginian	1
+c.134 i.909 p.r s.arizona u.@dougducey 2020-03-31 17:07:07+00:00	1
+broomheadktar	1
+ktar923	1
+broomheadshow	1
+c.135 i.4049 p.r s.north dakota u.@dougburgum 2020-06-26 20:29:51+00:00	1
+busy	1
+ndsmart	1
+c.136 i.4341 p.r s.ohio u.@govmikedewine 2020-10-23 18:09:56+00:00	1
+c.137 i.6110 p.r s.south dakota u.@govkristinoem 2020-04-20 17:58:49+00:00	1
+c.138 i.1034 p.r s.arizona u.@dougducey 2020-03-19 19:41:33+00:00	1
+chandler	1
+chamber	1
+chandlerchamber	1
+c.139 i.1365 p.r s.arkansas u.@asahutchinson 2020-05-29 18:35:22+00:00	1
+c.140 i.6868 p.r s.utah u.@govherbert 2020-03-18 00:09:22+00:00	1
+bar	1
+establishment	1
+dine-in	1
+utahcovid19	1
+c.141 i.6304 p.r s.tennessee u.@govbilllee 2020-05-28 17:36:27+00:00	1
+sustain	1
+announcing	1
+noncontact	1
+summer	1
+camp	1
+c.142 i.2152 p.r s.indiana u.@govholcomb 2020-04-15 17:30:21+00:00	1
+c.143 i.1830 p.r s.georgia u.@briankempga 2020-05-13 12:01:26+00:00	1
+c.144 i.1212 p.r s.arkansas u.@asahutchinson 2020-09-08 18:27:20+00:00	1
+c.145 i.5944 p.npp s.puerto rico u.@wandavazquezg 2020-03-01 22:14:01+00:00	1
+nuestro	1
+número	1
+uno	1
+creado	1
+tanto	1
+gubernamentales	1
+entidades	1
+privadas	1
+atento	1
+sean	1
+llegada	1
+c.146 i.5736 p.npp s.puerto rico u.@wandavazquezg 2020-07-28 17:19:16+00:00	1
+mañana	1
+tuvimos	1
+protocolos	1
+coordinación	1
+federales	1
+estatales	1
+mismo	1
+modo	1
+discutimos	1
+movimiento	1
+sumariados	1
+diferentes	1
+jurisdicciones	1
+mientras	1
+continúe	1
+c.147 i.1018 p.r s.arizona u.@dougducey 2020-03-20 23:50:55+00:00	1
+taxpayer	1
+c.148 i.3829 p.r s.new hampshire u.@govchrissununu 2020-05-22 21:00:02+00:00	1
+c.149 i.2906 p.r s.missouri u.@govparsonmo 2020-09-24 19:11:41+00:00	1
+firstladyteresa	1
+consistent	1
+isolated	1
+c.150 i.2909 p.r s.missouri u.@govparsonmo 2020-09-23 20:28:24+00:00	1
+c.151 i.65 p.r s.alabama u.@governorkayivey 2020-06-30 14:10:40+00:00	1
+c.152 i.1415 p.r s.arkansas u.@asahutchinson 2020-05-02 17:12:33+00:00	1
+c.153 i.1637 p.r s.florida u.@govrondesantis 2020-07-16 16:46:56+00:00	1
+roundtable	1
+flcaseydesantis	1
+tampa	1
+crisiscentertb	1
+c.154 i.6504 p.r s.tennessee u.@govbilllee 2020-03-26 20:02:32+00:00	1
+c.155 i.4010 p.r s.north dakota u.@dougburgum 2020-09-22 22:44:26+00:00	1
+unique	1
+bankofnd	1
+c.156 i.3191 p.r s.missouri u.@govparsonmo 2020-05-18 19:43:19+00:00	1
+dmat-1	1
+mshptrooperghq	1
+remdesivir	1
+experimental	1
+treat	1
+c.157 i.6625 p.r s.texas u.@gregabbott_tx 2020-04-28 00:47:22+00:00	1
+corral	1
+c.158 i.8035 p.r s.p2016 u.@realdonaldtrump 2020-03-11 19:18:35+00:00	1
+c.159 i.5233 p.r s.ohio u.@govmikedewine 2020-03-20 18:14:00+00:00	1
+deep	1
+c.160 i.5370 p.r s.ohio u.@govmikedewine 2020-03-15 15:27:00+00:00	1
+scene	1
+try	1
+c.161 i.7127 p.r s.west virginia u.@wvgovernor 2020-08-05 14:00:45+00:00	1
+c.162 i.285 p.r s.alaska u.@govdunleavy 2020-05-18 19:47:29+00:00	1
+rose	1
+countless	1
+c.163 i.3525 p.r s.nebraska u.@govricketts 2020-04-20 20:58:34+00:00	1
+billhemmer	1
+c.164 i.4759 p.r s.ohio u.@govmikedewine 2020-06-23 14:08:00+00:00	1
+c.165 i.6752 p.r s.utah u.@govherbert 2020-10-20 20:00:01+00:00	1
+c.166 i.4207 p.r s.ohio u.@govmikedewine 2020-11-14 20:08:00+00:00	1
+holder	1
+liquor	1
+c.167 i.2217 p.r s.indiana u.@govholcomb 2020-03-23 15:01:09+00:00	1
+statehouse	1
+c.168 i.6308 p.r s.tennessee u.@govbilllee 2020-05-22 17:00:01+00:00	1
+washable	1
+c.169 i.4117 p.r s.north dakota u.@dougburgum 2020-04-10 20:31:12+00:00	1
+c.170 i.7860 p.r s.p2016 u.@realdonaldtrump 2020-10-19 19:08:59+00:00	1
+skill	1
+n.y.	1
+promote	1
+sink	1
+historic	1
+c.171 i.545 p.r s.arizona u.@dougducey 2020-07-24 16:30:43+00:00	1
+s.	1
+central	1
+n.	1
+c.172 i.7054 p.r s.west virginia u.@wvgovernor 2020-10-02 15:41:04+00:00	1
+c.173 i.1232 p.r s.arkansas u.@asahutchinson 2020-08-29 00:07:21+00:00	1
+county-level	1
+moving	1
+statistic	1
+c.174 i.7796 p.r s.vp2016 u.@mike_pence 2020-03-17 21:24:25+00:00	1
+esperdod	1
+pentagon	1
+respirator	1
+specialized	1
+c.175 i.5546 p.r s.oklahoma u.@govstitt 2020-07-13 20:33:12+00:00	1
+c.176 i.7543 p.r s.northern mariana islands u.@governorcnmi 2020-06-04 11:26:15+00:00	1
+c.177 i.4698 p.r s.ohio u.@govmikedewine 2020-07-08 16:26:00+00:00	1
+c.178 i.1587 p.r s.florida u.@govrondesantis 2020-09-04 17:26:19+00:00	1
+article	1
+iv	1
+section	1
+c.179 i.122 p.r s.alabama u.@governorkayivey 2020-04-10 17:59:55+00:00	1
+plate	1
+fame	1
+glory	1
+earnestly	1
+c.180 i.393 p.r s.alaska u.@govdunleavy 2020-03-09 20:56:18+00:00	1
+kenai	1
+seward	1
+homer	1
+rapidly-evolving	1
+c.181 i.774 p.r s.arizona u.@dougducey 2020-04-18 19:10:57+00:00	1
+arizonaatwork	1
+seeker	1
+hire	1
+c.182 i.1607 p.r s.florida u.@govrondesantis 2020-08-12 12:54:59+00:00	1
+builder	1
+c.183 i.2793 p.r s.missouri u.@govparsonmo 2020-11-05 14:46:58+00:00	1
+testament	1
+missouriforward	1
+c.184 i.5639 p.r s.oklahoma u.@govstitt 2020-04-07 16:10:36+00:00	1
+worldhealthday	1
+c.185 i.1728 p.r s.florida u.@govrondesantis 2020-04-17 22:31:20+00:00	1
+c.186 i.3955 p.r s.new hampshire u.@govchrissununu 2020-03-17 15:50:36+00:00	1
+adversely	1
+c.187 i.7858 p.r s.p2016 u.@realdonaldtrump 2020-10-23 19:16:55+00:00	1
+lethal	1
+weak	1
+pathetic	1
+c.188 i.3700 p.r s.nebraska u.@govricketts 2020-03-09 18:58:01+00:00	1
+c.189 i.7973 p.r s.p2016 u.@realdonaldtrump 2020-04-25 20:30:42+00:00	1
+wrong	1
+laboratory	1
+sunlight	1
+lamestream	1
+c.190 i.4602 p.r s.ohio u.@govmikedewine 2020-07-30 18:04:03+00:00	1
+defiancecollege	1
+c.191 i.1817 p.r s.georgia u.@briankempga 2020-06-12 16:16:41+00:00	1
+measured	1
+re-vive	1
+c.192 i.1659 p.r s.florida u.@govrondesantis 2020-06-28 18:47:56+00:00	1
+pensacola	1
+c.193 i.5427 p.r s.ohio u.@govmikedewine 2020-03-12 19:00:02+00:00	1
+c.194 i.3299 p.r s.missouri u.@govparsonmo 2020-04-09 20:09:57+00:00	1
+sight	1
+driving	1
+c.195 i.1006 p.r s.arizona u.@dougducey 2020-03-22 16:06:10+00:00	1
+heartfelt	1
+condolence	1
+c.196 i.5201 p.r s.ohio u.@govmikedewine 2020-03-22 19:51:20+00:00	1
+c.197 i.4370 p.r s.ohio u.@govmikedewine 2020-10-14 14:54:00+00:00	1
+ousouthern	1
+c.198 i.932 p.r s.arizona u.@dougducey 2020-03-28 01:17:23+00:00	1
+mcurtis12news	1
+c.199 i.4120 p.r s.north dakota u.@dougburgum 2020-04-09 15:53:25+00:00	1
+gain	1
+stack	1
+comparatively	1
+c.200 i.3108 p.r s.missouri u.@govparsonmo 2020-06-09 20:06:12+00:00	1
+expire	1
+c.201 i.5826 p.npp s.puerto rico u.@wandavazquezg 2020-04-06 01:31:58+00:00	1
+bajo	1
+anunciado	1
+medio	1
+semana	1
+mayor	1
+estamos	1
+viviendo	1
+negocio	1
+cerrará	1
+viernes	1
+santo	1
+sábado	1
+gloria	1
+resurrección	1
+c.202 i.5181 p.r s.ohio u.@govmikedewine 2020-03-24 18:56:04+00:00	1
+crash	1
+c.203 i.1550 p.r s.arkansas u.@asahutchinson 2020-03-19 01:47:01+00:00	1
+child-care	1
+c.204 i.3088 p.r s.missouri u.@govparsonmo 2020-06-19 14:29:33+00:00	1
+c.205 i.6398 p.r s.tennessee u.@govbilllee 2020-04-23 22:18:42+00:00	1
+continues	1
+apart	1
+tnedu	1
+tnenvironment	1
+c.206 i.2482 p.r s.massachussetts u.@massgovernor 2020-05-13 16:24:02+00:00	1
+c.207 i.6880 p.r s.utah u.@govherbert 2020-03-02 18:45:52+00:00	1
+solicit	1
+input	1
+c.208 i.7920 p.r s.p2016 u.@realdonaldtrump 2020-07-03 03:44:42+00:00	1
+faster	1
+c.209 i.977 p.r s.arizona u.@dougducey 2020-03-25 17:17:36+00:00	1
+c.210 i.514 p.r s.arizona u.@dougducey 2020-08-14 22:42:22+00:00	1
+statefarmstdm	1
+valley	1
+ellie	1
+towne	1
+tucson	1
+c.211 i.2037 p.r s.indiana u.@govholcomb 2020-07-29 18:15:46+00:00	1
+c.212 i.7563 p.r s.northern mariana islands u.@governorcnmi 2020-05-07 05:03:55+00:00	1
+trust	1
+covid-19…	1
+c.213 i.4296 p.r s.ohio u.@govmikedewine 2020-11-02 20:02:10+00:00	1
+c.214 i.6167 p.r s.south dakota u.@govkristinoem 2020-03-23 13:02:41+00:00	1
+dakotans	1
+c.215 i.4362 p.r s.ohio u.@govmikedewine 2020-10-19 13:10:00+00:00	1
+court	1
+fairview	1
+ave.	1
+c.216 i.2916 p.r s.missouri u.@govparsonmo 2020-09-16 22:50:36+00:00	1
+violent	1
+escalate	1
+c.217 i.800 p.r s.arizona u.@dougducey 2020-04-15 18:31:48+00:00	1
+antibody	1
+game-changer	1
+robbins	1
+underway	1
+c.218 i.5021 p.r s.ohio u.@govmikedewine 2020-04-14 18:01:21+00:00	1
+c.219 i.907 p.r s.arizona u.@dougducey 2020-03-31 17:23:24+00:00	1
+scottpasmoretv	1
+yettagibson	1
+c.220 i.5145 p.r s.ohio u.@govmikedewine 2020-03-28 12:37:00+00:00	1
+c.221 i.6869 p.r s.utah u.@govherbert 2020-03-17 21:14:38+00:00	1
+c.222 i.3579 p.r s.nebraska u.@govricketts 2020-04-06 23:27:34+00:00	1
+c.223 i.2064 p.r s.indiana u.@govholcomb 2020-06-12 17:30:14+00:00	1
+c.224 i.5760 p.npp s.puerto rico u.@wandavazquezg 2020-06-25 15:35:30+00:00	1
+anunciarles	1
+logramos	1
+acuerdo	1
+jsf	1
+asignar	1
+millones	1
+reserva	1
+emergencias	1
+cuantía	1
+sin	1
+precedentes	1
+incluyendo	1
+temporada	1
+huracanes	1
+temblores	1
+puertoricoprimero	1
+c.225 i.7222 p.r s.west virginia u.@wvgovernor 2020-05-27 17:12:11+00:00	1
+berkeley	1
+jefferson	1
+mineral	1
+morgan	1
+c.226 i.1554 p.r s.arkansas u.@asahutchinson 2020-03-16 16:13:22+00:00	1
+fayetteville	1
+c.227 i.7588 p.r s.northern mariana islands u.@governorcnmi 2020-04-16 21:11:18+00:00	1
+consultation	1
+j.	1
+c.228 i.391 p.r s.alaska u.@govdunleavy 2020-03-11 22:10:22+00:00	1
+c.229 i.6182 p.r s.south dakota u.@govkristinoem 2020-03-17 19:33:18+00:00	1
+now-	1
+averahealth	1
+c.230 i.3962 p.r s.new hampshire u.@govchrissununu 2020-03-16 16:12:36+00:00	1
+shortly	1
+c.231 i.6261 p.r s.tennessee u.@govbilllee 2020-08-14 22:19:54+00:00	1
+campuses	1
+c.232 i.4208 p.r s.ohio u.@govmikedewine 2020-11-14 16:16:00+00:00	1
+c.233 i.3230 p.r s.missouri u.@govparsonmo 2020-05-04 21:37:54+00:00	1
+multiple	1
+regulatory	1
+c.234 i.1213 p.r s.arkansas u.@asahutchinson 2020-09-07 20:57:00+00:00	1
+card	1
+commonsense	1
+c.235 i.7354 p.r s.west virginia u.@wvgovernor 2020-04-05 02:41:47+00:00	1
+monongalia	1
+harrison	1
+socially	1
+c.236 i.1518 p.r s.arkansas u.@asahutchinson 2020-03-25 21:50:36+00:00	1
+technician	1
+fatigue	1
+c.237 i.188 p.r s.alabama u.@governorkayivey 2020-03-13 14:55:24+00:00	1
+c.238 i.1759 p.r s.georgia u.@briankempga 2020-11-10 14:16:57+00:00	1
+c.239 i.585 p.r s.arizona u.@dougducey 2020-07-09 22:03:32+00:00	1
+t.	1
+mcguire	1
+c.240 i.5120 p.r s.ohio u.@govmikedewine 2020-03-31 13:45:00+00:00	1
+lori_criss	1
+emotion	1
+c.241 i.6610 p.r s.texas u.@gregabbott_tx 2020-05-04 19:17:03+00:00	1
+navy	1
+blue	1
+angels	1
+thunderbirds	1
+responders	1
+c.242 i.5131 p.r s.ohio u.@govmikedewine 2020-03-30 14:06:13+00:00	1
+applause	1
+c.243 i.3921 p.r s.new hampshire u.@govchrissununu 2020-03-30 19:16:46+00:00	1
+c.244 i.8038 p.r s.p2016 u.@realdonaldtrump 2020-03-11 14:22:00+00:00	1
+vanity	1
+fair	1
+third	1
+reporter	1
+exist	1
+phony	1
+bore	1
+opposite	1
+c.245 i.4677 p.r s.ohio u.@govmikedewine 2020-07-14 18:26:23+00:00	1
+c.246 i.7083 p.r s.west virginia u.@wvgovernor 2020-09-08 13:30:12+00:00	1
+c.247 i.953 p.r s.arizona u.@dougducey 2020-03-26 20:59:33+00:00	1
+emission	1
+arizonadeq	1
+c.248 i.7107 p.r s.west virginia u.@wvgovernor 2020-08-19 13:30:10+00:00	1
+c.249 i.7236 p.r s.west virginia u.@wvgovernor 2020-05-18 16:30:07+00:00	1
+c.250 i.2718 p.r s.mississippi u.@tatereeves 2020-04-01 17:56:04+00:00	1
+bless	1
+c.251 i.2966 p.r s.missouri u.@govparsonmo 2020-08-26 15:49:24+00:00	1
+substantially	1
+interact	1
+c.252 i.1091 p.r s.arizona u.@dougducey 2020-03-13 16:15:00+00:00	1
+c.253 i.7702 p.r s.vp2016 u.@mike_pence 2020-06-26 21:03:22+00:00	1
+jersey	1
+orleans	1
+deeply	1
+cooperate	1
+c.254 i.2774 p.r s.missouri u.@govparsonmo 2020-11-10 23:28:00+00:00	1
+box-in	1
+c.255 i.6881 p.r s.vermont u.@govphilscott 2020-11-13 21:16:31+00:00	1
+c.256 i.6196 p.r s.south dakota u.@govkristinoem 2020-03-13 14:46:43+00:00	1
+c.257 i.6122 p.r s.south dakota u.@govkristinoem 2020-04-14 15:22:00+00:00	1
+droz	1
+offense	1
+c.258 i.4771 p.r s.ohio u.@govmikedewine 2020-06-18 18:33:19+00:00	1
+transition	1
+search	1
+posting	1
+c.259 i.686 p.r s.arizona u.@dougducey 2020-05-15 16:23:57+00:00	1
+c.260 i.2000 p.r s.idaho u.@governorlittle 2020-03-12 17:14:17+00:00	1
+appropriate	1
+preserve	1
+c.261 i.6678 p.r s.texas u.@gregabbott_tx 2020-04-03 22:46:41+00:00	1
+ten	1
+person	1
+c.262 i.517 p.r s.arizona u.@dougducey 2020-08-13 21:08:08+00:00	1
+contingency	1
+net	1
+c.263 i.1476 p.r s.arkansas u.@asahutchinson 2020-04-06 18:29:41+00:00	1
+c.264 i.858 p.r s.arizona u.@dougducey 2020-04-06 14:01:10+00:00	1
+toughest	1
+january	1
+meaning	1
+c.265 i.1979 p.r s.idaho u.@governorlittle 2020-03-26 15:53:19+00:00	1
+continuously	1
+c.266 i.4127 p.r s.north dakota u.@dougburgum 2020-04-04 19:13:53+00:00	1
+c.267 i.884 p.r s.arizona u.@dougducey 2020-04-02 17:56:07+00:00	1
+mcsoaz	1
+c.268 i.7718 p.r s.vp2016 u.@mike_pence 2020-05-09 00:17:17+00:00	1
+mudlaff	1
+westkirk	1
+presbyterian	1
+ministry	1
+c.269 i.5008 p.r s.ohio u.@govmikedewine 2020-04-15 18:22:27+00:00	1
+prisons	1
+sadly	1
+pickaway	1
+wait	1
+confirmation	1
+certain	1
+c.270 i.2950 p.r s.missouri u.@govparsonmo 2020-08-30 19:59:00+00:00	1
+technology	1
+c.271 i.4767 p.r s.ohio u.@govmikedewine 2020-06-19 18:01:00+00:00	1
+c.272 i.1866 p.r s.georgia u.@briankempga 2020-03-17 19:10:08+00:00	1
+kemp	1
+courageous	1
+discourage	1
+lord	1
+wherever	1
+go.	1
+joshua	1
+c.273 i.40 p.r s.alabama u.@governorkayivey 2020-08-07 15:30:11+00:00	1
+mitigation	1
+c.274 i.8066 p.r s.p2016 u.@realdonaldtrump 2020-02-25 14:02:15+00:00	1
+cryin	1
+schumer	1
+complain	1
+publicity	1
+closing	1
+incompetent	1
+c.275 i.4608 p.r s.ohio u.@govmikedewine 2020-07-28 18:06:19+00:00	1
+chambers-smith	1
+inside	1
+tues	1
+c.276 i.2324 p.r s.massachussetts u.@massgovernor 2020-10-22 16:06:07+00:00	1
+c.277 i.723 p.r s.arizona u.@dougducey 2020-04-29 17:09:15+00:00	1
+azedschools	1
+collect	1
+c.278 i.582 p.r s.arizona u.@dougducey 2020-07-10 18:16:45+00:00	1
+evan	1
+willingness	1
+c.279 i.4496 p.r s.ohio u.@govmikedewine 2020-08-27 18:02:31+00:00	1
+owenscc	1
+c.280 i.287 p.r s.alaska u.@govdunleavy 2020-05-15 23:18:14+00:00	1
+reopenalaskaresponsibly	1
+c.281 i.2072 p.r s.indiana u.@govholcomb 2020-06-05 17:30:15+00:00	1
+c.282 i.90 p.r s.alabama u.@governorkayivey 2020-05-06 21:45:02+00:00	1
+students—lindsey	1
+wood	1
+thorsby	1
+brooke	1
+bennett	1
+montgomery—for	1
+nassp	1
+kristenbell	1
+prudential	1
+awards	1
+c.283 i.3470 p.r s.nebraska u.@govricketts 2020-05-18 19:01:06+00:00	1
+emsweek	1
+c.284 i.14 p.r s.alabama u.@governorkayivey 2020-09-29 17:22:14+00:00	1
+million+	1
+abbott	1
+laboratories	1
+binaxnow	1
+shipment	1
+c.285 i.5458 p.r s.ohio u.@govmikedewine 2020-03-10 18:36:26+00:00	1
+athletics	1
+indoor	1
+spectator	1
+athlete	1
+c.286 i.5402 p.r s.ohio u.@govmikedewine 2020-03-14 14:44:09+00:00	1
+c.287 i.2495 p.r s.massachussetts u.@massgovernor 2020-05-07 16:19:33+00:00	1
+c.288 i.5710 p.npp s.puerto rico u.@wandavazquezg 2020-10-05 17:58:04+00:00	1
+iniciando	1
+agenda	1
+dialogando	1
+anthony	1
+ferreri	1
+asuntos	1
+intergubernamentales	1
+administrador	1
+murad	1
+raheem	1
+próximos	1
+pasos	1
+tomar	1
+durante	1
+utilización	1
+fondos	1
+c.289 i.867 p.r s.arizona u.@dougducey 2020-04-03 19:43:48+00:00	1
+ivyfoundation	1
+pro	1
+c.290 i.4292 p.r s.ohio u.@govmikedewine 2020-11-04 14:52:00+00:00	1
+feed	1
+fresh	1
+independent	1
+grocer	1
+c.291 i.2121 p.r s.indiana u.@govholcomb 2020-04-29 18:15:15+00:00	1
+c.292 i.4167 p.r s.north dakota u.@dougburgum 2020-03-19 02:04:54+00:00	1
+northdakotabh	1
+manage	1
+behavioralhealthishealth	1
+c.293 i.6707 p.r s.texas u.@gregabbott_tx 2020-03-20 03:14:03+00:00	1
+austin-based	1
+diagnostics	1
+everlywell	1
+c.294 i.7788 p.r s.vp2016 u.@mike_pence 2020-03-20 16:36:34+00:00	1
+seemacms	1
+donald	1
+high-quality	1
+c.295 i.3484 p.r s.nebraska u.@govricketts 2020-05-06 19:07:36+00:00	1
+c.296 i.1207 p.r s.arkansas u.@asahutchinson 2020-09-11 18:26:32+00:00	1
+mena	1
+c.297 i.5371 p.r s.ohio u.@govmikedewine 2020-03-15 15:06:49+00:00	1
+inconvenience	1
+c.298 i.4903 p.r s.ohio u.@govmikedewine 2020-05-07 15:47:00+00:00	1
+c.299 i.502 p.r s.arizona u.@dougducey 2020-08-21 16:48:52+00:00	1
+twsemicon	1
+goggles	1
+gowns	1
+c.300 i.5271 p.r s.ohio u.@govmikedewine 2020-03-19 13:22:06+00:00	1
+c.301 i.4859 p.r s.ohio u.@govmikedewine 2020-05-19 16:32:51+00:00	1
+tracer	1
+ssn	1
+c.302 i.6600 p.r s.texas u.@gregabbott_tx 2020-05-08 19:44:17+00:00	1
+c.303 i.3839 p.r s.new hampshire u.@govchrissununu 2020-05-14 13:57:56+00:00	1
+c.304 i.4267 p.r s.ohio u.@govmikedewine 2020-11-07 20:23:00+00:00	1
+creative	1
+c.305 i.1076 p.r s.arizona u.@dougducey 2020-03-16 15:27:59+00:00	1
+abc15	1
+c.306 i.4569 p.r s.ohio u.@govmikedewine 2020-08-08 12:41:00+00:00	1
+georgetown	1
+c.307 i.6275 p.r s.tennessee u.@govbilllee 2020-07-20 19:36:06+00:00	1
+offset	1
+incur	1
+c.308 i.1024 p.r s.arizona u.@dougducey 2020-03-20 16:38:45+00:00	1
+activate	1
+shelf	1
+stock	1
+stmarysfoodbank	1
+c.309 i.2124 p.r s.indiana u.@govholcomb 2020-04-28 17:30:05+00:00	1
+c.310 i.3015 p.r s.missouri u.@govparsonmo 2020-08-01 00:51:00+00:00	1
+c.311 i.1749 p.r s.florida u.@govrondesantis 2020-03-16 20:16:25+00:00	1
+c.312 i.7607 p.r s.northern mariana islands u.@governorcnmi 2020-04-04 11:58:07+00:00	1
+instagram	1
+false	1
+verify	1
+healthcare…	1
+c.313 i.2297 p.r s.maryland u.@larryhogan 2020-04-03 18:18:53+00:00	1
+govlarryhogan	1
+c.314 i.6365 p.r s.tennessee u.@govbilllee 2020-05-01 19:03:21+00:00	1
+launching	1
+mass	1
+c.315 i.4958 p.r s.ohio u.@govmikedewine 2020-04-25 17:00:01+00:00	1
+surf	1
+rockhall	1
+inductee	1
+mikeloveofcl	1
+beach	1
+boys	1
+virus.	1
+c.316 i.411 p.r s.arizona u.@dougducey 2020-11-06 18:50:35+00:00	1
+cara	1
+christ	1
+distant	1
+c.317 i.959 p.r s.arizona u.@dougducey 2020-03-26 17:59:32+00:00	1
+c.318 i.4221 p.r s.ohio u.@govmikedewine 2020-11-12 19:19:15+00:00	1
+seasonal	1
+chart	1
+flu-like	1
+decline	1
+c.319 i.6445 p.r s.tennessee u.@govbilllee 2020-04-13 23:12:13+00:00	1
+reboot	1
+tnvacation	1
+ezell	1
+industry-specific	1
+c.320 i.879 p.r s.arizona u.@dougducey 2020-04-02 23:21:54+00:00	1
+clintlhickman	1
+maricopacounty	1
+connected	1
+c.321 i.434 p.r s.arizona u.@dougducey 2020-10-19 17:06:37+00:00	1
+short-term	1
+material	1
+c.322 i.4040 p.r s.north dakota u.@dougburgum 2020-07-28 23:40:46+00:00	1
+formation	1
+burleigh-morton	1
+bismarck/mandan	1
+surround	1
+one-third	1
+c.323 i.3527 p.r s.nebraska u.@govricketts 2020-04-20 19:02:42+00:00	1
+c.324 i.4310 p.r s.ohio u.@govmikedewine 2020-10-29 18:19:33+00:00	1
+couple	1
+mainly	1
+regular	1
+c.325 i.2029 p.r s.indiana u.@govholcomb 2020-08-19 18:15:13+00:00	1
+c.326 i.7814 p.r s.vp2016 u.@mike_pence 2020-03-10 22:18:22+00:00	1
+agree	1
+copays	1
+coverage	1
+c.327 i.5602 p.r s.oklahoma u.@govstitt 2020-04-30 20:13:08+00:00	1
+c.328 i.3351 p.r s.missouri u.@govparsonmo 2020-03-26 18:30:04+00:00	1
+stringer	1
+patrick	1
+mckenna	1
+c.329 i.3758 p.r s.new hampshire u.@govchrissununu 2020-08-11 16:02:25+00:00	1
+c.330 i.4353 p.r s.ohio u.@govmikedewine 2020-10-20 18:24:43+00:00	1
+andy	1
+thomas	1
+covid-related	1
+c.331 i.6336 p.r s.tennessee u.@govbilllee 2020-05-11 21:48:01+00:00	1
+questions	1
+c.332 i.7373 p.r s.west virginia u.@wvgovernor 2020-03-31 18:03:57+00:00	1
+c.333 i.2325 p.r s.massachussetts u.@massgovernor 2020-10-21 22:14:00+00:00	1
+mayordriscoll	1
+ordinarily	1
+halloween	1
+ordinary	1
+c.334 i.5453 p.r s.ohio u.@govmikedewine 2020-03-10 18:57:48+00:00	1
+dramatically	1
+c.335 i.3341 p.r s.missouri u.@govparsonmo 2020-03-31 16:00:18+00:00	1
+rob	1
+dixon	1
+modnr	1
+carol	1
+comer	1
+precythe	1
+c.336 i.1298 p.r s.arkansas u.@asahutchinson 2020-07-24 18:30:42+00:00	1
+c.337 i.6312 p.r s.tennessee u.@govbilllee 2020-05-21 15:12:22+00:00	1
+c.338 i.2251 p.r s.iowa u.@kimreynoldsia 2020-05-02 15:41:10+00:00	1
+iowa	1
+c.339 i.820 p.r s.arizona u.@dougducey 2020-04-10 21:30:00+00:00	1
+luke	1
+c.340 i.1087 p.r s.arizona u.@dougducey 2020-03-13 17:00:00+00:00	1
+c.341 i.1537 p.r s.arkansas u.@asahutchinson 2020-03-21 14:45:00+00:00	1
+continuation	1
+c.342 i.2668 p.r s.mississippi u.@tatereeves 2020-09-28 20:07:21+00:00	1
+lucky	1
+successful—largely	1
+game-changing	1
+c.343 i.1706 p.r s.florida u.@govrondesantis 2020-05-07 12:14:37+00:00	1
+lean	1
+c.344 i.6644 p.r s.texas u.@gregabbott_tx 2020-04-17 16:51:27+00:00	1
+c.345 i.5953 p.npp s.puerto rico u.@wandavazquezg 2020-02-29 21:04:53+00:00	1
+vivo|	1
+presentando	1
+gubernamental	1
+c.346 i.7248 p.r s.west virginia u.@wvgovernor 2020-05-12 14:00:39+00:00	1
+c.347 i.3905 p.r s.new hampshire u.@govchrissununu 2020-04-09 14:27:38+00:00	1
+c.348 i.1909 p.r s.idaho u.@governorlittle 2020-08-27 21:04:05+00:00	1
+legislature	1
+passionately	1
+duty	1
+idahoans	1
+propel	1
+c.349 i.6497 p.r s.tennessee u.@govbilllee 2020-03-29 23:36:36+00:00	1
+gallatin	1
+rehabilitation	1
+c.350 i.1187 p.r s.arkansas u.@asahutchinson 2020-09-27 21:55:25+00:00	1
+surpass	1
+arkansans	1
+c.351 i.942 p.r s.arizona u.@dougducey 2020-03-27 17:07:57+00:00	1
+c.352 i.8031 p.r s.p2016 u.@realdonaldtrump 2020-03-13 02:33:48+00:00	1
+apology	1
+cause	1
+americans.	1
+loudobbs	1
+c.353 i.5908 p.npp s.puerto rico u.@wandavazquezg 2020-03-17 14:06:08+00:00	1
+adicionales	1
+ciudadanos	1
+tras	1
+c.354 i.3218 p.r s.missouri u.@govparsonmo 2020-05-07 18:20:40+00:00	1
+orschelnfmandhm	1
+height	1
+c.355 i.6606 p.r s.texas u.@gregabbott_tx 2020-05-05 22:25:46+00:00	1
+hair	1
+nail	1
+salons	1
+gyms	1
+c.356 i.5632 p.r s.oklahoma u.@govstitt 2020-04-10 15:47:12+00:00	1
+c.357 i.3247 p.r s.missouri u.@govparsonmo 2020-04-28 14:11:55+00:00	1
+whiteman_afb	1
+perform	1
+kc	1
+whitemansaluteskc	1
+b-2	1
+t-38	1
+talons	1
+a-10	1
+thunderbolt	1
+iis	1
+c.358 i.1037 p.r s.arizona u.@dougducey 2020-03-19 18:29:34+00:00	1
+tucsonchamber	1
+c.359 i.1039 p.r s.arizona u.@dougducey 2020-03-19 17:44:40+00:00	1
+c.360 i.2425 p.r s.massachussetts u.@massgovernor 2020-06-24 16:01:26+00:00	1
+c.361 i.6474 p.r s.tennessee u.@govbilllee 2020-04-04 19:00:00+00:00	1
+normal	1
+marialeetn	1
+tennesseeserves	1
+c.362 i.2952 p.r s.missouri u.@govparsonmo 2020-08-28 17:01:40+00:00	1
+legislative	1
+interrupt	1
+c.363 i.5204 p.r s.ohio u.@govmikedewine 2020-03-22 18:52:22+00:00	1
+suggestion	1
+comply	1
+c.364 i.3026 p.r s.missouri u.@govparsonmo 2020-07-28 01:18:30+00:00	1
+weapon	1
+self-isolate	1
+agencies	1
+contacttracing	1
+c.365 i.1167 p.r s.arkansas u.@asahutchinson 2020-10-13 21:03:02+00:00	1
+reality	1
+eo	1
+c.366 i.6043 p.r s.south dakota u.@govkristinoem 2020-07-28 16:05:27+00:00	1
+initial	1
+absolutely	1
+c.367 i.7231 p.r s.west virginia u.@wvgovernor 2020-05-21 13:30:13+00:00	1
+c.368 i.7861 p.r s.p2016 u.@realdonaldtrump 2020-10-15 01:56:34+00:00	1
+email	1
+phone	1
+transcript	1
+involvement	1
+dealing	1
+influence	1
+peddle	1
+world—including	1
+c.369 i.7874 p.r s.p2016 u.@realdonaldtrump 2020-10-05 18:37:21+00:00	1
+walter	1
+reed	1
+dominate	1
+knowledge	1
+c.370 i.4772 p.r s.ohio u.@govmikedewine 2020-06-18 18:26:37+00:00	1
+amy	1
+edwards	1
+m.d	1
+c.371 i.4515 p.r s.ohio u.@govmikedewine 2020-08-21 20:21:00+00:00	1
+c.372 i.7751 p.r s.vp2016 u.@mike_pence 2020-04-08 21:06:35+00:00	1
+housedemocrats	1
+caucus	1
+states	1
+americaworkstogether	1
+c.373 i.1112 p.r s.arizona u.@dougducey 2020-03-04 22:36:27+00:00	1
+c.374 i.1306 p.r s.arkansas u.@asahutchinson 2020-07-16 18:29:46+00:00	1
+c.375 i.7915 p.r s.p2016 u.@realdonaldtrump 2020-07-06 18:36:59+00:00	1
+cut	1
+heart-related	1
+side-effects	1
+study	1
+publish	1
+ford	1
+large-scale	1
+retrospective	1
+c.376 i.6490 p.r s.tennessee u.@govbilllee 2020-04-01 14:27:31+00:00	1
+pursue	1
+up-to-date	1
+c.377 i.2908 p.r s.missouri u.@govparsonmo 2020-09-24 00:24:00+00:00	1
+c.378 i.1169 p.r s.arkansas u.@asahutchinson 2020-10-13 16:13:41+00:00	1
+c.379 i.7429 p.r s.west virginia u.@wvgovernor 2020-03-11 22:43:58+00:00	1
+capitol	1
+c.380 i.165 p.r s.alabama u.@governorkayivey 2020-03-20 19:13:41+00:00	1
+unfold	1
+c.381 i.889 p.r s.arizona u.@dougducey 2020-04-01 23:38:52+00:00	1
+pipelineaz	1
+c19az	1
+localfirstaz	1
+c.382 i.1099 p.r s.arizona u.@dougducey 2020-03-12 22:57:35+00:00	1
+c.383 i.1700 p.r s.florida u.@govrondesantis 2020-05-09 15:27:51+00:00	1
+tuckercarlson	1
+marc	1
+siegel	1
+c.384 i.455 p.r s.arizona u.@dougducey 2020-10-02 15:12:53+00:00	1
+c.385 i.417 p.r s.arizona u.@dougducey 2020-10-30 15:43:23+00:00	1
+largely	1
+mkayackley	1
+c.386 i.3719 p.r s.new hampshire u.@govchrissununu 2020-11-05 17:46:31+00:00	1
+c.387 i.7271 p.r s.west virginia u.@wvgovernor 2020-05-01 17:00:26+00:00	1
+c.388 i.6579 p.r s.texas u.@gregabbott_tx 2020-06-05 14:51:04+00:00	1
+boom	1
+c.389 i.4760 p.r s.ohio u.@govmikedewine 2020-06-22 20:35:58+00:00	1
+bowling	1
+green	1
+canton	1
+lancaster	1
+lisbon	1
+malta	1
+tests	1
+c.390 i.3309 p.r s.missouri u.@govparsonmo 2020-04-07 22:44:54+00:00	1
+anna	1
+hui	1
+c.391 i.7643 p.r s.vp2016 u.@mike_pence 2020-11-09 13:36:17+00:00	1
+public-private	1
+forge	1
+pfizer	1
+trial	1
+c.392 i.3648 p.r s.nebraska u.@govricketts 2020-03-24 01:30:14+00:00	1
+nationalagweek	1
+c.393 i.902 p.r s.arizona u.@dougducey 2020-03-31 19:17:02+00:00	1
+c.394 i.2417 p.r s.massachussetts u.@massgovernor 2020-07-01 21:02:03+00:00	1
+addressing	1
+spotlight	1
+c.395 i.388 p.r s.alaska u.@govdunleavy 2020-03-16 19:24:22+00:00	1
+shipping	1
+interruption	1
+c.396 i.6617 p.r s.texas u.@gregabbott_tx 2020-05-02 21:46:40+00:00	1
+harlingen	1
+texasguard	1
+c.397 i.2739 p.r s.mississippi u.@tatereeves 2020-03-19 21:08:19+00:00	1
+eventually	1
+elee	1
+c.398 i.7791 p.r s.vp2016 u.@mike_pence 2020-03-18 20:56:02+00:00	1
+c.399 i.6240 p.r s.tennessee u.@govbilllee 2020-09-11 19:07:28+00:00	1
+survey	1
+perspective	1
+pro-business	1
+environment	1
+thrive	1
+c.400 i.1314 p.r s.arkansas u.@asahutchinson 2020-07-10 18:31:30+00:00	1
+queen	1
+c.401 i.1864 p.r s.georgia u.@briankempga 2020-03-18 17:29:36+00:00	1
+georgiadol	1
+notch	1
+stable	1
+c.402 i.1542 p.r s.arkansas u.@asahutchinson 2020-03-20 21:53:59+00:00	1
+apple	1
+creek	1
+centerton	1
+villages	1
+baptist	1
+pine	1
+briarwood	1
+c.403 i.4262 p.r s.ohio u.@govmikedewine 2020-11-08 18:36:00+00:00	1
+c.404 i.6878 p.r s.utah u.@govherbert 2020-03-04 20:10:12+00:00	1
+dozen	1
+eight	1
+native	1
+tribes	1
+preparing	1
+c.405 i.3183 p.r s.missouri u.@govparsonmo 2020-05-20 16:57:16+00:00	1
+brigadier	1
+levon	1
+cumpton	1
+c.406 i.3810 p.r s.new hampshire u.@govchrissununu 2020-06-09 19:13:36+00:00	1
+riteaid	1
+portsmouth	1
+c.407 i.2368 p.r s.massachussetts u.@massgovernor 2020-08-20 16:06:43+00:00	1
+c.408 i.2024 p.r s.indiana u.@govholcomb 2020-09-02 17:29:07+00:00	1
+c.409 i.7907 p.r s.p2016 u.@realdonaldtrump 2020-07-26 19:44:11+00:00	1
+vaccines	1
+else	1
+throw	1
+opening	1
+pitch	1
+yankees	1
+c.410 i.2636 p.r s.massachussetts u.@massgovernor 2020-03-17 17:12:48+00:00	1
+c.411 i.2088 p.r s.indiana u.@govholcomb 2020-05-18 19:06:02+00:00	1
+emsweek2020	1
+c.412 i.6775 p.r s.utah u.@govherbert 2020-09-23 04:27:34+00:00	1
+wise	1
+countywide	1
+requirement	1
+protects	1
+c.413 i.7804 p.r s.vp2016 u.@mike_pence 2020-03-15 22:17:06+00:00	1
+c.414 i.7681 p.r s.vp2016 u.@mike_pence 2020-07-22 21:15:11+00:00	1
+speaking	1
+govsisolak	1
+communication	1
+nevadans	1
+nevada	1
+c.415 i.6209 p.r s.tennessee u.@govbilllee 2020-11-14 13:30:48+00:00	1
+c.416 i.7477 p.r s.wyoming u.@governorgordon 2020-04-10 15:00:00+00:00	1
+belief	1
+peace	1
+dayofprayer	1
+stayhomestaysafe	1
+c.417 i.3747 p.r s.new hampshire u.@govchrissununu 2020-09-03 18:55:04+00:00	1
+c.418 i.3082 p.r s.missouri u.@govparsonmo 2020-06-23 20:21:14+00:00	1
+c.419 i.140 p.r s.alabama u.@governorkayivey 2020-03-31 15:14:26+00:00	1
+high-speed	1
+magnify	1
+imperative	1
+c.420 i.7982 p.r s.p2016 u.@realdonaldtrump 2020-04-19 19:18:05+00:00	1
+february	1
+democratic	1
+debate	1
+vegas	1
+bretbaier	1
+c.421 i.1851 p.r s.georgia u.@briankempga 2020-03-31 21:30:31+00:00	1
+eager	1
+tom	1
+carden	1
+c.422 i.2281 p.r s.maryland u.@larryhogan 2020-05-20 19:30:00+00:00	1
+wjz	1
+increases	1
+including	1
+universal	1
+juvenile	1
+c.423 i.2070 p.r s.indiana u.@govholcomb 2020-06-05 19:45:22+00:00	1
+c.424 i.2278 p.r s.maryland u.@larryhogan 2020-05-21 21:30:57+00:00	1
+baltimoresun	1
+c.425 i.5957 p.npp s.puerto rico u.@wandavazquezg 2020-02-25 14:23:05+00:00	1
+coalición	1
+voces	1
+conjunto	1
+oficina	1
+primera	1
+dama	1
+realiza	1
+desde	1
+ayer	1
+manera	1
+gratuita	1
+clínica	1
+humacao	1
+coamo	1
+mayagüez	1
+si	1
+vives	1
+lugares	1
+cerca	1
+aprovecha	1
+vacúnate	1
+prcontrolainfluenza	1
+vacunacióngratis	1
+c.426 i.284 p.r s.alaska u.@govdunleavy 2020-05-18 20:58:12+00:00	1
+uncertain	1
+succeed	1
+kimstrassel	1
+alaskadeed	1
+c.427 i.263 p.r s.alaska u.@govdunleavy 2020-06-01 00:09:26+00:00	1
+discussing	1
+annezinkmd	1
+alaskadhss	1
+c.428 i.3296 p.r s.missouri u.@govparsonmo 2020-04-10 15:57:04+00:00	1
+markreardonkmox	1
+kmox	1
+covid019	1
+c.429 i.6852 p.r s.utah u.@govherbert 2020-04-02 18:38:31+00:00	1
+ubusiness	1
+seminar	1
+overcome	1
+c.430 i.6592 p.r s.texas u.@gregabbott_tx 2020-05-13 15:14:07+00:00	1
+c.431 i.1867 p.r s.georgia u.@briankempga 2020-03-17 15:08:58+00:00	1
+regularly	1
+elderly	1
+chronically	1
+ill	1
+hunker	1
+c.432 i.6749 p.r s.utah u.@govherbert 2020-10-24 21:11:14+00:00	1
+energy	1
+summit	1
+virtual-only	1
+c.433 i.4170 p.r s.north dakota u.@dougburgum 2020-03-18 14:53:11+00:00	1
+morton	1
+minor	1
+c.434 i.1479 p.r s.arkansas u.@asahutchinson 2020-04-05 18:30:42+00:00	1
+c.435 i.4746 p.r s.ohio u.@govmikedewine 2020-06-25 18:00:48+00:00	1
+c.436 i.3533 p.r s.nebraska u.@govricketts 2020-04-18 14:12:50+00:00	1
+c.437 i.2161 p.r s.indiana u.@govholcomb 2020-04-10 18:15:15+00:00	1
+c.438 i.5252 p.r s.ohio u.@govmikedewine 2020-03-19 19:56:15+00:00	1
+terminology	1
+reason	1
+c.439 i.4715 p.r s.ohio u.@govmikedewine 2020-07-02 18:05:42+00:00	1
+sinclaircc	1
+c.440 i.2691 p.r s.mississippi u.@tatereeves 2020-06-04 14:43:23+00:00	1
+guard—massive	1
+c.441 i.7247 p.r s.west virginia u.@wvgovernor 2020-05-12 17:00:33+00:00	1
+c.442 i.6961 p.r s.vermont u.@govphilscott 2020-04-17 20:43:06+00:00	1
+flag	1
+remainder	1
+c.443 i.5904 p.npp s.puerto rico u.@wandavazquezg 2020-03-18 11:51:35+00:00	1
+colaboración	1
+ciudadano	1
+lo	1
+lograremos	1
+primerahora	1
+elnuevodia	1
+voceropr	1
+metro_pr	1
+wapatv	1
+telemundopr	1
+c.444 i.641 p.r s.arizona u.@dougducey 2020-06-15 21:45:51+00:00	1
+c.445 i.6203 p.r s.south dakota u.@govkristinoem 2020-03-03 02:05:29+00:00	1
+sd	1
+c.446 i.3898 p.r s.new hampshire u.@govchrissununu 2020-04-10 19:06:58+00:00	1
+c.447 i.270 p.r s.alaska u.@govdunleavy 2020-05-26 21:51:35+00:00	1
+americanewsroom	1
+c.448 i.6708 p.r s.texas u.@gregabbott_tx 2020-03-20 02:37:59+00:00	1
+defeat	1
+biz	1
+tx	1
+c.449 i.1033 p.r s.arizona u.@dougducey 2020-03-19 19:46:14+00:00	1
+opt	1
+you/family	1
+azcardinals	1
+mbidwill	1
+larryfitzgerald	1
+c.450 i.6176 p.r s.south dakota u.@govkristinoem 2020-03-19 14:51:44+00:00	1
+senatorrounds	1
+senjohnthune	1
+repdustyjohnson	1
+c.451 i.3594 p.r s.nebraska u.@govricketts 2020-04-03 23:51:09+00:00	1
+shop	1
+c.452 i.4768 p.r s.ohio u.@govmikedewine 2020-06-19 14:01:00+00:00	1
+agricultural	1
+newly	1
+portal	1
+edil	1
+c.453 i.2961 p.r s.missouri u.@govparsonmo 2020-08-26 21:46:10+00:00	1
+non-profit	1
+pfpstl	1
+tell	1
+primarily	1
+c.454 i.4294 p.r s.ohio u.@govmikedewine 2020-11-03 17:00:01+00:00	1
+clark	1
+surrounding	1
+dome	1
+c.455 i.6847 p.r s.utah u.@govherbert 2020-04-06 01:42:40+00:00	1
+though	1
+shortage	1
+utahdepofhealth	1
+c.456 i.4775 p.r s.ohio u.@govmikedewine 2020-06-18 18:07:51+00:00	1
+swearing-in	1
+ohiofire	1
+marshal	1
+kevin	1
+reardon	1
+c.457 i.6681 p.r s.texas u.@gregabbott_tx 2020-04-02 21:36:28+00:00	1
+apple⁩	1
+c.458 i.4264 p.r s.ohio u.@govmikedewine 2020-11-08 15:00:00+00:00	1
+c.459 i.198 p.r s.alaska u.@govdunleavy 2020-11-06 21:00:00+00:00	1
+c.460 i.1935 p.r s.idaho u.@governorlittle 2020-06-10 16:54:27+00:00	1
+property	1
+bonus	1
+conservative	1
+concept	1
+c.461 i.3424 p.r s.nebraska u.@govricketts 2020-11-09 16:00:26+00:00	1
+c.462 i.477 p.r s.arizona u.@dougducey 2020-09-08 22:20:51+00:00	1
+around-the-clock	1
+c.463 i.7022 p.r s.west virginia u.@wvgovernor 2020-10-31 01:37:00+00:00	1
+c.464 i.7170 p.r s.west virginia u.@wvgovernor 2020-07-02 17:00:00+00:00	1
+c.465 i.6388 p.r s.tennessee u.@govbilllee 2020-04-25 21:08:57+00:00	1
+usacehq	1
+c.466 i.7557 p.r s.northern mariana islands u.@governorcnmi 2020-05-13 08:34:07+00:00	1
+chief	1
+officer	1
+muña	1
+unveil	1
+cnmi…	1
+c.467 i.6439 p.r s.tennessee u.@govbilllee 2020-04-16 15:25:39+00:00	1
+c.468 i.2932 p.r s.missouri u.@govparsonmo 2020-09-09 20:57:01+00:00	1
+april-july	1
+register	1
+c.469 i.2073 p.r s.indiana u.@govholcomb 2020-06-03 20:03:31+00:00	1
+hip	1
+bridge	1
+c.470 i.3683 p.r s.nebraska u.@govricketts 2020-03-16 19:43:39+00:00	1
+single	1
+floor	1
+building	1
+downtown	1
+omaha	1
+c.471 i.2568 p.r s.massachussetts u.@massgovernor 2020-04-10 17:37:34+00:00	1
+safelink	1
+confidential	1
+domestic	1
+violence	1
+sexual	1
+assault	1
+sadv	1
+c.472 i.7353 p.r s.west virginia u.@wvgovernor 2020-04-05 23:30:05+00:00	1
+excellent	1
+clock	1
+c.473 i.7836 p.r s.vp2016 u.@mike_pence 2020-02-28 23:34:41+00:00	1
+productive	1
+aboard	1
+secazar	1
+c.474 i.699 p.r s.arizona u.@dougducey 2020-05-07 21:37:28+00:00	1
+nationaldayofprayer	1
+c.475 i.7117 p.r s.west virginia u.@wvgovernor 2020-08-12 16:35:41+00:00	1
+c.476 i.34 p.r s.alabama u.@governorkayivey 2020-08-24 16:37:06+00:00	1
+adjust	1
+tuscaloosa	1
+tuscaloosacity	1
+uofalabama	1
+c.477 i.5691 p.r s.oklahoma u.@govstitt 2020-03-16 00:26:27+00:00	1
+c.478 i.2785 p.r s.missouri u.@govparsonmo 2020-11-06 19:42:31+00:00	1
+prove	1
+term	1
+rank	1
+c.479 i.4343 p.r s.ohio u.@govmikedewine 2020-10-23 12:41:00+00:00	1
+avon	1
+lecrushers	1
+lake	1
+erie	1
+crushers	1
+baseball	1
+blvd	1
+c.480 i.3510 p.r s.nebraska u.@govricketts 2020-04-24 21:16:19+00:00	1
+developnebraska	1
+c.481 i.4806 p.r s.ohio u.@govmikedewine 2020-06-09 16:25:46+00:00	1
+c.482 i.5241 p.r s.ohio u.@govmikedewine 2020-03-20 14:40:00+00:00	1
+truck	1
+driver	1
+c.483 i.2736 p.r s.mississippi u.@tatereeves 2020-03-20 15:01:26+00:00	1
+mississippians	1
+increasing	1
+c.484 i.3142 p.r s.missouri u.@govparsonmo 2020-05-28 13:40:20+00:00	1
+disburse	1
+rely	1
+c.485 i.920 p.r s.arizona u.@dougducey 2020-03-30 17:00:09+00:00	1
+cooperative	1
+agreement	1
+eviction	1
+foreclosure	1
+least	1
+arizonan	1
+c.486 i.2675 p.r s.mississippi u.@tatereeves 2020-08-11 19:05:05+00:00	1
+opponent	1
+bubble	1
+anywhere	1
+societal	1
+foolish	1
+c.487 i.4187 p.r s.north dakota u.@dougburgum 2020-03-03 21:54:34+00:00	1
+c.488 i.4179 p.r s.north dakota u.@dougburgum 2020-03-15 02:03:25+00:00	1
+whole-of-government	1
+c.489 i.3136 p.r s.missouri u.@govparsonmo 2020-05-30 16:01:00+00:00	1
+readily	1
+blood	1
+redcrossbldmoil	1
+c.490 i.2343 p.r s.massachussetts u.@massgovernor 2020-09-23 17:31:04+00:00	1
+massdev	1
+cityoflowellma	1
+mill	1
+bbq	1
+commonwealthplaces	1
+space	1
+commercial	1
+c.491 i.7084 p.r s.west virginia u.@wvgovernor 2020-09-07 14:11:29+00:00	1
+happy	1
+c.492 i.7454 p.r s.wyoming u.@governorgordon 2020-05-21 18:15:00+00:00	1
+staying	1
+c.493 i.3831 p.r s.new hampshire u.@govchrissununu 2020-05-18 19:12:26+00:00	1
+main	1
+meant	1
+fill	1
+pre-grant	1
+c.494 i.7576 p.r s.northern mariana islands u.@governorcnmi 2020-04-25 04:11:49+00:00	1
+break	1
+contact…	1
+c.495 i.2655 p.r s.massachussetts u.@massgovernor 2020-03-11 19:41:23+00:00	1
+cabinet	1
+umass	1
+operator	1
+adult	1
+c.496 i.3205 p.r s.missouri u.@govparsonmo 2020-05-13 20:25:09+00:00	1
+c.497 i.7635 p.r s.northern mariana islands u.@governorcnmi 2020-03-12 07:57:20+00:00	1
+lt	1
+arnold	1
+i.	1
+palacios	1
+muna	1
+establish…	1
+c.498 i.4509 p.r s.ohio u.@govmikedewine 2020-08-23 18:05:00+00:00	1
+maskson	1
+c.499 i.4643 p.r s.ohio u.@govmikedewine 2020-07-22 12:39:00+00:00	1
+emotional	1
+careline	1
+licensed	1
+c.500 i.542 p.r s.arizona u.@dougducey 2020-07-27 16:19:28+00:00	1
+c.501 i.4597 p.r s.ohio u.@govmikedewine 2020-08-01 15:00:01+00:00	1
+didyouknow	1
+covid19-related	1
+printable	1
+poster	1
+download	1
+c.502 i.3798 p.r s.new hampshire u.@govchrissununu 2020-06-18 19:07:54+00:00	1
+although	1
+anyone–	1
+crowd	1
+groceries–	1
+c.503 i.3684 p.r s.nebraska u.@govricketts 2020-03-16 19:22:02+00:00	1
+nationwide	1
+depts	1
+subscribe	1
+hans	1
+c.504 i.6287 p.r s.tennessee u.@govbilllee 2020-06-19 14:31:22+00:00	1
+immense	1
+budgetary	1
+sound	1
+c.505 i.91 p.r s.alabama u.@governorkayivey 2020-05-05 17:53:50+00:00	1
+alabamang	1
+sky	1
+wonderful	1
+tribute	1
+wesalutealabama	1
+airforcesalutes	1
+c.506 i.5022 p.r s.ohio u.@govmikedewine 2020-04-14 17:06:12+00:00	1
+bluejacketsnhl	1
+defenseman	1
+seth_jones3	1
+c.507 i.6882 p.r s.vermont u.@govphilscott 2020-11-11 19:26:24+00:00	1
+double	1
+c.508 i.3886 p.r s.new hampshire u.@govchrissununu 2020-04-14 21:16:26+00:00	1
+sue	1
+spending	1
+c.509 i.5144 p.r s.ohio u.@govmikedewine 2020-03-28 13:19:00+00:00	1
+c.510 i.2012 p.r s.indiana u.@govholcomb 2020-09-30 19:51:26+00:00	1
+c.511 i.6373 p.r s.tennessee u.@govbilllee 2020-04-29 22:53:13+00:00	1
+c.512 i.3455 p.r s.nebraska u.@govricketts 2020-05-28 19:01:41+00:00	1
+secretary	1
+greg	1
+ibach	1
+c.513 i.2400 p.r s.massachussetts u.@massgovernor 2020-07-21 17:45:36+00:00	1
+committed	1
+c.514 i.7737 p.r s.vp2016 u.@mike_pence 2020-04-19 15:41:46+00:00	1
+objective	1
+embrace	1
+c.515 i.2537 p.r s.massachussetts u.@massgovernor 2020-04-20 17:22:07+00:00	1
+nygovcuomo	1
+device	1
+c.516 i.5082 p.r s.ohio u.@govmikedewine 2020-04-03 18:31:09+00:00	1
+ohioians	1
+finally	1
+sba	1
+careact	1
+c.517 i.5718 p.npp s.puerto rico u.@wandavazquezg 2020-09-13 14:48:00+00:00	1
+disfrutemos	1
+hermosa	1
+siempre	1
+recordando	1
+responsabilidad	1
+ciudadana	1
+protegernos	1
+rodean	1
+oe	1
+hacia	1
+adelante	1
+juntosderrotamoselvirus	1
+c.518 i.899 p.r s.arizona u.@dougducey 2020-03-31 21:50:00+00:00	1
+arizonamedicine	1
+susan	1
+whitely	1
+connected.	1
+c.519 i.3938 p.r s.new hampshire u.@govchrissununu 2020-03-24 16:28:36+00:00	1
+c.520 i.6264 p.r s.tennessee u.@govbilllee 2020-08-12 17:29:57+00:00	1
+liability	1
+legal	1
+c.521 i.5165 p.r s.ohio u.@govmikedewine 2020-03-26 18:30:01+00:00	1
+peak	1
+folk	1
+matter	1
+inthistogehterohio	1
+c.522 i.4865 p.r s.ohio u.@govmikedewine 2020-05-18 18:01:03+00:00	1
+c.523 i.1975 p.r s.idaho u.@governorlittle 2020-03-27 22:26:55+00:00	1
+tremendous	1
+inspiring	1
+c.524 i.404 p.r s.arizona u.@dougducey 2020-11-12 16:16:22+00:00	1
+globe	1
+flagstaff	1
+c.525 i.2959 p.r s.missouri u.@govparsonmo 2020-08-27 13:32:07+00:00	1
+c.526 i.5280 p.r s.ohio u.@govmikedewine 2020-03-18 18:12:39+00:00	1
+frandewine	1
+togetherathome	1
+imaginationohio	1
+c.527 i.3310 p.r s.missouri u.@govparsonmo 2020-04-07 22:38:20+00:00	1
+c.528 i.6501 p.r s.tennessee u.@govbilllee 2020-03-26 23:43:53+00:00	1
+c.529 i.2371 p.r s.massachussetts u.@massgovernor 2020-08-18 16:08:29+00:00	1
+c.530 i.1317 p.r s.arkansas u.@asahutchinson 2020-07-07 18:28:50+00:00	1
+c.531 i.1580 p.r s.florida u.@govrondesantis 2020-09-24 13:44:51+00:00	1
+evidence-based	1
+jayanta	1
+bhattacharya	1
+m.d./ph.d.	1
+martin	1
+kulldorff	1
+harvard	1
+c.532 i.6781 p.r s.utah u.@govherbert 2020-09-16 16:43:31+00:00	1
+greatly	1
+output	1
+c.533 i.627 p.r s.arizona u.@dougducey 2020-06-25 22:41:25+00:00	1
+safer	1
+avoiding	1
+c.534 i.1813 p.r s.georgia u.@briankempga 2020-06-24 17:31:21+00:00	1
+laurel	1
+c.535 i.3200 p.r s.missouri u.@govparsonmo 2020-05-14 20:02:23+00:00	1
+situational	1
+awareness	1
+c.536 i.7878 p.r s.p2016 u.@realdonaldtrump 2020-09-30 18:01:48+00:00	1
+sleepy	1
+infected	1
+months	1
+like	1
+fast	1
+politician	1
+c.537 i.5557 p.r s.oklahoma u.@govstitt 2020-06-24 22:12:02+00:00	1
+paymentprotectionprogram	1
+c.538 i.2117 p.r s.indiana u.@govholcomb 2020-05-01 13:27:55+00:00	1
+inguardsman	1
+c.539 i.1310 p.r s.arkansas u.@asahutchinson 2020-07-14 18:29:30+00:00	1
+c.540 i.6987 p.r s.vermont u.@govphilscott 2020-03-24 13:47:30+00:00	1
+rep.	1
+peterwelch	1
+package	1
+vtpoli	1
+c.541 i.5947 p.npp s.puerto rico u.@wandavazquezg 2020-02-29 22:24:27+00:00	1
+presentamos	1
+componente	1
+preparativos	1
+están	1
+realizando	1
+escenario	1
+transmisión	1
+comunitaria	1
+c.542 i.6376 p.r s.tennessee u.@govbilllee 2020-04-29 19:00:01+00:00	1
+c.543 i.6214 p.r s.tennessee u.@govbilllee 2020-10-31 13:08:44+00:00	1
+oct.	1
+c.544 i.2122 p.r s.indiana u.@govholcomb 2020-04-29 17:30:11+00:00	1
+c.545 i.2531 p.r s.massachussetts u.@massgovernor 2020-04-22 17:46:42+00:00	1
+earthday	1
+planet	1
+natural	1
+c.546 i.5487 p.r s.ohio u.@govmikedewine 2020-02-06 15:04:00+00:00	1
+ne	1
+miss	1
+wapakoneta	1
+coldwater	1
+leipsic	1
+unity	1
+ada	1
+ohiodeptofag	1
+ohioepa	1
+ohiodnr	1
+c.547 i.7305 p.r s.west virginia u.@wvgovernor 2020-04-20 14:00:34+00:00	1
+c.548 i.6338 p.r s.tennessee u.@govbilllee 2020-05-11 16:00:01+00:00	1
+c.549 i.26 p.r s.alabama u.@governorkayivey 2020-08-27 21:22:01+00:00	1
+pilgrim	1
+jbshometownstrong	1
+c.550 i.1625 p.r s.florida u.@govrondesantis 2020-07-23 15:54:51+00:00	1
+melbourne	1
+c.551 i.3133 p.r s.missouri u.@govparsonmo 2020-06-01 19:08:02+00:00	1
+halfway	1
+fortunate	1
+booming	1
+wage	1
+growth	1
+c.552 i.747 p.r s.arizona u.@dougducey 2020-04-23 19:36:38+00:00	1
+lending	1
+goodwill	1
+c.553 i.7795 p.r s.vp2016 u.@mike_pence 2020-03-18 02:54:27+00:00	1
+c.554 i.1803 p.r s.georgia u.@briankempga 2020-07-12 14:02:14+00:00	1
+gratoday	1
+eat	1
+locally	1
+c.555 i.4939 p.r s.ohio u.@govmikedewine 2020-04-28 18:01:55+00:00	1
+c.556 i.1030 p.r s.arizona u.@dougducey 2020-03-19 21:13:57+00:00	1
+coordinated	1
+lapazhealthinfo	1
+maricopahealth	1
+c.557 i.5724 p.npp s.puerto rico u.@wandavazquezg 2020-08-20 11:02:33+00:00	1
+persona	1
+darle	1
+seriedad	1
+quede	1
+claro	1
+vida	1
+puertorriqueños	1
+sigue	1
+mi	1
+momentos	1
+continuaré	1
+decisiones	1
+c.558 i.380 p.r s.alaska u.@govdunleavy 2020-03-23 01:58:55+00:00	1
+stabilize	1
+c.559 i.6957 p.r s.vermont u.@govphilscott 2020-04-29 21:38:58+00:00	1
+c.560 i.7650 p.r s.vp2016 u.@mike_pence 2020-09-02 20:39:02+00:00	1
+c.561 i.4853 p.r s.ohio u.@govmikedewine 2020-05-21 15:07:04+00:00	1
+c.562 i.4481 p.r s.ohio u.@govmikedewine 2020-09-01 18:28:46+00:00	1
+c.563 i.5244 p.r s.ohio u.@govmikedewine 2020-03-20 13:35:00+00:00	1
+low-interest	1
+smallbiz	1
+c.564 i.6966 p.r s.vermont u.@govphilscott 2020-04-09 18:26:59+00:00	1
+cv_expo	1
+essex	1
+junction	1
+vtnationalguard	1
+construct	1
+prepares	1
+c.565 i.2190 p.r s.indiana u.@govholcomb 2020-04-01 18:15:09+00:00	1
+c.566 i.2623 p.r s.massachussetts u.@massgovernor 2020-03-21 18:31:55+00:00	1
+c.567 i.7565 p.r s.northern mariana islands u.@governorcnmi 2020-05-05 10:36:34+00:00	1
+applicant	1
+strictly	1
+enforce	1
+eligibility…	1
+c.568 i.5619 p.r s.oklahoma u.@govstitt 2020-04-21 15:03:14+00:00	1
+c.569 i.3705 p.r s.nebraska u.@govricketts 2020-03-03 21:07:54+00:00	1
+c.570 i.1040 p.r s.arizona u.@dougducey 2020-03-19 17:27:06+00:00	1
+kids	1
+meal	1
+sunset	1
+making	1
+cartwrightsd	1
+sunseteagles	1
+c.571 i.8039 p.r s.p2016 u.@realdonaldtrump 2020-03-10 14:44:11+00:00	1
+democrat	1
+complimentary	1
+c.572 i.7657 p.r s.vp2016 u.@mike_pence 2020-08-12 22:00:51+00:00	1
+kellyannepolls	1
+c.573 i.7262 p.r s.west virginia u.@wvgovernor 2020-05-06 17:00:55+00:00	1
+c.574 i.7822 p.r s.vp2016 u.@mike_pence 2020-03-06 03:30:07+00:00	1
+inspire	1
+govinslee	1
+congressional	1
+delegation	1
+c.575 i.7562 p.r s.northern mariana islands u.@governorcnmi 2020-05-07 11:36:55+00:00	1
+temporarily	1
+high…	1
+c.576 i.4473 p.r s.ohio u.@govmikedewine 2020-09-04 19:20:42+00:00	1
+signed	1
+reporting	1
+notification	1
+cases	1
+kindergarten	1
+twelfth	1
+grade	1
+schools	1
+c.577 i.4240 p.r s.ohio u.@govmikedewine 2020-11-11 22:32:06+00:00	1
+c.578 i.5505 p.r s.oklahoma u.@govstitt 2020-10-20 16:44:27+00:00	1
+story	1
+tami	1
+repjasonlowe	1
+convalescent	1
+plasma	1
+life-saving	1
+c.579 i.539 p.r s.arizona u.@dougducey 2020-07-28 14:00:01+00:00	1
+c.580 i.660 p.r s.arizona u.@dougducey 2020-05-28 19:15:32+00:00	1
+freedomfamily	1
+consumer	1
+helpline	1
+thru	1
+c.581 i.7554 p.r s.northern mariana islands u.@governorcnmi 2020-05-15 03:41:14+00:00	1
+stayathome	1
+stopthespread	1
+marianasstrong	1
+c.582 i.7810 p.r s.vp2016 u.@mike_pence 2020-03-12 17:57:13+00:00	1
+contract	1
+attention	1
+c.583 i.1691 p.r s.florida u.@govrondesantis 2020-05-13 19:05:35+00:00	1
+prohibit	1
+covid-positive	1
+stevebahmer	1
+leadingagefl	1
+c.584 i.5155 p.r s.ohio u.@govmikedewine 2020-03-27 15:21:00+00:00	1
+c.585 i.1520 p.r s.arkansas u.@asahutchinson 2020-03-25 15:06:12+00:00	1
+c.586 i.2641 p.r s.massachussetts u.@massgovernor 2020-03-16 00:50:08+00:00	1
+suspending	1
+c.587 i.1703 p.r s.florida u.@govrondesantis 2020-05-08 14:29:43+00:00	1
+brand-new	1
+c.588 i.1774 p.r s.georgia u.@briankempga 2020-08-29 16:16:17+00:00	1
+aug.	1
+c.589 i.5709 p.npp s.puerto rico u.@wandavazquezg 2020-10-05 19:26:49+00:00	1
+felicitaron	1
+gente	1
+primeros	1
+emitir	1
+lockdown	1
+reconocieron	1
+protocolo	1
+aeropuerto	1
+digno	1
+ejemplo	1
+nación	1
+sumamente	1
+orgullosa	1
+agradecida	1
+c.590 i.1217 p.r s.arkansas u.@asahutchinson 2020-09-05 14:17:53+00:00	1
+searcy	1
+impress	1
+c.591 i.7647 p.r s.vp2016 u.@mike_pence 2020-09-15 21:56:25+00:00	1
+us_fda	1
+nih	1
+scientist	1
+warp	1
+speed	1
+c.592 i.2304 p.r s.maryland u.@larryhogan 2020-03-13 18:59:52+00:00	1
+comptroller	1
+peterfranchot	1
+says	1
+annapolis	1
+mdga20	1
+c.593 i.1374 p.r s.arkansas u.@asahutchinson 2020-05-26 15:28:57+00:00	1
+c.594 i.4628 p.r s.ohio u.@govmikedewine 2020-07-23 18:24:09+00:00	1
+hardin	1
+seeing	1
+setting	1
+grow	1
+c.595 i.4540 p.r s.ohio u.@govmikedewine 2020-08-15 12:21:00+00:00	1
+rivers	1
+c.596 i.3909 p.r s.new hampshire u.@govchrissununu 2020-04-08 19:39:23+00:00	1
+viral	1
+likely	1
+attack	1
+c.597 i.1083 p.r s.arizona u.@dougducey 2020-03-13 21:06:10+00:00	1
+heard	1
+administrator	1
+c.598 i.2659 p.r s.massachussetts u.@massgovernor 2020-03-02 22:27:57+00:00	1
+masshhs	1
+sec	1
+marylou	1
+sudders	1
+monica	1
+bharel	1
+outline	1
+c.599 i.3403 p.r s.missouri u.@govparsonmo 2020-03-08 01:40:31+00:00	1
+sam	1
+presumptive	1
+c.600 i.7701 p.r s.vp2016 u.@mike_pence 2020-06-29 19:43:44+00:00	1
+c.601 i.217 p.r s.alaska u.@govdunleavy 2020-09-08 20:15:00+00:00	1
+adam	1
+crum	1
+zink	1
+mclaughlin	1
+c.602 i.3900 p.r s.new hampshire u.@govchrissununu 2020-04-10 17:04:00+00:00	1
+visited	1
+clinical	1
+flex	1
+nhti	1
+concord	1
+hang	1
+ring	1
+c.603 i.2967 p.r s.missouri u.@govparsonmo 2020-08-26 15:10:06+00:00	1
+c.604 i.2243 p.r s.indiana u.@govholcomb 2020-03-12 14:12:22+00:00	1
+a.m	1
+c.605 i.7045 p.r s.west virginia u.@wvgovernor 2020-10-12 13:30:15+00:00	1
+c.606 i.5600 p.r s.oklahoma u.@govstitt 2020-05-01 20:06:43+00:00	1
+enjoyed	1
+outkick	1
+claytravis	1
+jazz-thunder	1
+c.607 i.6384 p.r s.tennessee u.@govbilllee 2020-04-27 14:00:00+00:00	1
+c.608 i.6886 p.r s.vermont u.@govphilscott 2020-11-01 14:11:23+00:00	1
+best-case	1
+predict	1
+redouble	1
+trajectory	1
+c.609 i.5010 p.r s.ohio u.@govmikedewine 2020-04-15 16:36:33+00:00	1
+c.610 i.2704 p.r s.mississippi u.@tatereeves 2020-04-23 16:03:00+00:00	1
+ms	1
+msnbc	1
+interesting	1
+c.611 i.2542 p.r s.massachussetts u.@massgovernor 2020-04-18 17:41:20+00:00	1
+c.612 i.2256 p.r s.maryland u.@larryhogan 2020-08-04 19:22:22+00:00	1
+larry	1
+pact	1
+rockefeller	1
+bpolitics	1
+c.613 i.3243 p.r s.missouri u.@govparsonmo 2020-04-28 23:02:17+00:00	1
+fema	1
+various	1
+partners.	1
+c.614 i.935 p.r s.arizona u.@dougducey 2020-03-27 22:13:24+00:00	1
+vapontetaz	1
+telemundoaz	1
+c.615 i.4321 p.r s.ohio u.@govmikedewine 2020-10-27 18:21:12+00:00	1
+everywhere	1
+endanger	1
+c.616 i.3679 p.r s.nebraska u.@govricketts 2020-03-17 15:19:45+00:00	1
+c.617 i.6001 p.r s.south carolina u.@henrymcmaster 2020-03-19 18:42:28+00:00	1
+scdhec	1
+c.618 i.640 p.r s.arizona u.@dougducey 2020-06-15 22:40:59+00:00	1
+asset	1
+asu	1
+pres	1
+michaelcrow	1
+c.619 i.4043 p.r s.north dakota u.@dougburgum 2020-07-22 20:28:16+00:00	1
+c.620 i.4763 p.r s.ohio u.@govmikedewine 2020-06-22 14:53:08+00:00	1
+crocs	1
+none	1
+showing	1
+demonstrate	1
+hygiene/safety	1
+c.621 i.6032 p.r s.south dakota u.@govkristinoem 2020-09-30 16:45:00+00:00	1
+lesson	1
+hillsdale	1
+c.622 i.5663 p.r s.oklahoma u.@govstitt 2020-03-27 14:56:29+00:00	1
+rising	1
+c.623 i.2039 p.r s.indiana u.@govholcomb 2020-07-27 14:17:30+00:00	1
+covering	1
+maskuphoosiers	1
+c.624 i.2826 p.r s.missouri u.@govparsonmo 2020-10-29 20:00:21+00:00	1
+c.625 i.2451 p.r s.massachussetts u.@massgovernor 2020-06-03 16:10:48+00:00	1
+c.626 i.693 p.r s.arizona u.@dougducey 2020-05-12 16:10:10+00:00	1
+digital	1
+c.627 i.4974 p.r s.ohio u.@govmikedewine 2020-04-21 18:39:43+00:00	1
+silent	1
+civil	1
+society	1
+c.628 i.2527 p.r s.massachussetts u.@massgovernor 2020-04-23 17:40:30+00:00	1
+c.629 i.1698 p.r s.florida u.@govrondesantis 2020-05-11 17:18:37+00:00	1
+lee_health	1
+c.630 i.2326 p.r s.massachussetts u.@massgovernor 2020-10-20 16:45:21+00:00	1
+c.631 i.3830 p.r s.new hampshire u.@govchrissununu 2020-05-20 16:25:52+00:00	1
+c.632 i.5928 p.npp s.puerto rico u.@wandavazquezg 2020-03-09 01:15:38+00:00	1
+ordenado	1
+crucero	1
+pretenda	1
+entrar	1
+confirmar	1
+pasajeros	1
+abordo	1
+casos	1
+sospechosos	1
+cumple	1
+criterios	1
+sintomatología	1
+e	1
+historial	1
+viaje	1
+referentes	1
+deptsaludpr	1
+c.633 i.3838 p.r s.new hampshire u.@govchrissununu 2020-05-15 13:17:56+00:00	1
+officers	1
+ceremony	1
+wreath	1
+solemn	1
+c.634 i.5168 p.r s.ohio u.@govmikedewine 2020-03-26 18:00:22+00:00	1
+c.635 i.2865 p.r s.missouri u.@govparsonmo 2020-10-15 20:13:20+00:00	1
+saliva-based	1
+machine	1
+c.636 i.4185 p.r s.north dakota u.@dougburgum 2020-03-09 20:29:37+00:00	1
+c.637 i.3578 p.r s.nebraska u.@govricketts 2020-04-07 14:36:27+00:00	1
+directed	1
+measures	1
+c.638 i.2104 p.r s.indiana u.@govholcomb 2020-05-07 17:30:19+00:00	1
+c.639 i.3237 p.r s.missouri u.@govparsonmo 2020-05-01 17:31:43+00:00	1
+joining	1
+sarah	1
+steelman	1
+missourioa	1
+chris	1
+chinn	1
+moagriculture	1
+c.640 i.6070 p.r s.south dakota u.@govkristinoem 2020-05-19 20:03:03+00:00	1
+presser	1
+c.641 i.6499 p.r s.tennessee u.@govbilllee 2020-03-27 19:07:54+00:00	1
+c.642 i.4034 p.r s.north dakota u.@dougburgum 2020-08-03 21:30:44+00:00	1
+c.643 i.3375 p.r s.missouri u.@govparsonmo 2020-03-20 14:11:32+00:00	1
+overnight	1
+clarification	1
+stats	1
+c.644 i.918 p.r s.arizona u.@dougducey 2020-03-30 18:21:35+00:00	1
+homeless	1
+aafb	1
+azfb	1
+mercycareaz	1
+c.645 i.6441 p.r s.tennessee u.@govbilllee 2020-04-15 22:19:29+00:00	1
+c.646 i.1389 p.r s.arkansas u.@asahutchinson 2020-05-14 23:11:16+00:00	1
+blueangels	1
+demonstration	1
+c.647 i.6426 p.r s.tennessee u.@govbilllee 2020-04-18 18:00:00+00:00	1
+c.648 i.5128 p.r s.ohio u.@govmikedewine 2020-03-30 15:56:02+00:00	1
+jon	1
+c.649 i.714 p.r s.arizona u.@dougducey 2020-05-01 19:11:33+00:00	1
+nutrition	1
+specialist	1
+lunch	1
+hungry	1
+schoollunchheroday	1
+c.650 i.5281 p.r s.ohio u.@govmikedewine 2020-03-18 18:05:11+00:00	1
+c.651 i.1205 p.r s.arkansas u.@asahutchinson 2020-09-12 20:11:35+00:00	1
+chbanderson	1
+astatefb	1
+thrill	1
+w/the	1
+success	1
+w/playing	1
+c.652 i.2103 p.r s.indiana u.@govholcomb 2020-05-07 18:15:09+00:00	1
+c.653 i.4900 p.r s.ohio u.@govmikedewine 2020-05-07 18:52:09+00:00	1
+sometimes	1
+impacting	1
+c.654 i.2285 p.r s.maryland u.@larryhogan 2020-05-13 16:30:00+00:00	1
+warn	1
+c.655 i.4078 p.r s.north dakota u.@dougburgum 2020-05-11 20:26:08+00:00	1
+c.656 i.6677 p.r s.texas u.@gregabbott_tx 2020-04-04 00:54:33+00:00	1
+c.657 i.174 p.r s.alabama u.@governorkayivey 2020-03-17 14:32:41+00:00	1
+cautious	1
+self-regulating	1
+adhering	1
+c.658 i.3156 p.r s.missouri u.@govparsonmo 2020-05-26 14:38:04+00:00	1
+c.659 i.436 p.r s.arizona u.@dougducey 2020-10-17 16:00:01+00:00	1
+rollupyoursleeve	1
+c.660 i.7622 p.r s.northern mariana islands u.@governorcnmi 2020-03-24 09:12:27+00:00	1
+finance	1
+revenue	1
+taxation	1
+drt	1
+see…	1
+c.661 i.5338 p.r s.ohio u.@govmikedewine 2020-03-16 18:01:03+00:00	1
+c.662 i.4360 p.r s.ohio u.@govmikedewine 2020-10-20 15:49:17+00:00	1
+springfield	1
+rocking	1
+horse	1
+c.663 i.3313 p.r s.missouri u.@govparsonmo 2020-04-07 20:05:27+00:00	1
+hundred	1
+c.664 i.4730 p.r s.ohio u.@govmikedewine 2020-06-29 17:59:16+00:00	1
+c.665 i.3001 p.r s.missouri u.@govparsonmo 2020-08-07 02:04:00+00:00	1
+showmesuccess	1
+c.666 i.2750 p.r s.mississippi u.@tatereeves 2020-03-14 19:36:55+00:00	1
+reference	1
+times—it	1
+c.667 i.6411 p.r s.tennessee u.@govbilllee 2020-04-21 22:07:25+00:00	1
+begins	1
+engaging	1
+communities	1
+c.668 i.4546 p.r s.ohio u.@govmikedewine 2020-08-13 18:03:26+00:00	1
+terracc	1
+c.669 i.5262 p.r s.ohio u.@govmikedewine 2020-03-19 18:01:57+00:00	1
+c.670 i.7458 p.r s.wyoming u.@governorgordon 2020-05-16 15:15:00+00:00	1
+county-specific	1
+c.671 i.4373 p.r s.ohio u.@govmikedewine 2020-10-13 18:23:21+00:00	1
+difficulty	1
+well-visits	1
+recommend	1
+measles	1
+chicken	1
+pox	1
+whooping	1
+cough	1
+polio	1
+c.672 i.6330 p.r s.tennessee u.@govbilllee 2020-05-14 14:54:16+00:00	1
+nashvillemdha	1
+voluntary	1
+c.673 i.6255 p.r s.tennessee u.@govbilllee 2020-08-26 02:21:30+00:00	1
+disabled	1
+intellectual	1
+developmental	1
+disability	1
+c.674 i.967 p.r s.arizona u.@dougducey 2020-03-26 00:26:16+00:00	1
+h.b	1
+fannkfann	1
+recobbforazrep	1
+c.675 i.2156 p.r s.indiana u.@govholcomb 2020-04-14 13:20:10+00:00	1
+c.676 i.7757 p.r s.vp2016 u.@mike_pence 2020-04-06 15:32:24+00:00	1
+rally	1
+amaze	1
+americanexpress	1
+hiltonhotels	1
+staffer	1
+c.677 i.2939 p.r s.missouri u.@govparsonmo 2020-09-08 16:29:34+00:00	1
+gammahealthcare	1
+poplar	1
+gamma	1
+invest	1
+turnaround	1
+c.678 i.5646 p.r s.oklahoma u.@govstitt 2020-04-03 18:28:16+00:00	1
+c.679 i.3140 p.r s.missouri u.@govparsonmo 2020-05-28 20:12:48+00:00	1
+addition	1
+cvshealth	1
+select	1
+pharmacy	1
+self-swab	1
+cdc	1
+criterion	1
+c.680 i.4999 p.r s.ohio u.@govmikedewine 2020-04-17 18:01:37+00:00	1
+c.681 i.4128 p.r s.north dakota u.@dougburgum 2020-04-03 22:53:32+00:00	1
+pilot	1
+c.682 i.6151 p.r s.south dakota u.@govkristinoem 2020-04-01 20:04:21+00:00	1
+c.683 i.3796 p.r s.new hampshire u.@govchrissununu 2020-06-23 17:03:13+00:00	1
+c.684 i.4801 p.r s.ohio u.@govmikedewine 2020-06-11 17:58:08+00:00	1
+c.685 i.5726 p.npp s.puerto rico u.@wandavazquezg 2020-08-18 14:47:27+00:00	1
+dando	1
+seguimiento	1
+económico	1
+implementación	1
+nueva	1
+ejecutiva	1
+c.686 i.1707 p.r s.florida u.@govrondesantis 2020-05-06 23:48:32+00:00	1
+ground	1
+zero	1
+c.687 i.7278 p.r s.west virginia u.@wvgovernor 2020-04-29 21:30:44+00:00	1
+c.688 i.1361 p.r s.arkansas u.@asahutchinson 2020-06-02 14:17:27+00:00	1
+testify	1
+energycommerce	1
+govwhitmer	1
+govofco	1
+invisible	1
+c.689 i.4251 p.r s.ohio u.@govmikedewine 2020-11-10 15:13:31+00:00	1
+negatively	1
+c.690 i.5348 p.r s.ohio u.@govmikedewine 2020-03-16 12:41:00+00:00	1
+isolated/quarantined	1
+video	1
+chat	1
+food/drinks	1
+door	1
+errands	1
+c.691 i.4743 p.r s.ohio u.@govmikedewine 2020-06-26 12:14:25+00:00	1
+lpn	1
+c.692 i.1118 p.r s.arizona u.@dougducey 2020-03-02 21:35:50+00:00	1
+threat	1
+c.693 i.4300 p.r s.ohio u.@govmikedewine 2020-11-01 20:49:00+00:00	1
+c.694 i.1150 p.r s.arkansas u.@asahutchinson 2020-10-29 20:59:09+00:00	1
+encouragement	1
+c.695 i.4571 p.r s.ohio u.@govmikedewine 2020-08-07 18:25:13+00:00	1
+type	1
+peter	1
+mohler	1
+explain	1
+c.696 i.6718 p.r s.texas u.@gregabbott_tx 2020-03-15 20:33:14+00:00	1
+seniors	1
+guest	1
+temporary	1
+hopefully	1
+wo	1
+kvue	1
+c.697 i.5060 p.r s.ohio u.@govmikedewine 2020-04-08 13:50:07+00:00	1
+assume	1
+c.698 i.6801 p.r s.utah u.@govherbert 2020-06-23 02:36:13+00:00	1
+dunn	1
+internal	1
+memo	1
+raise	1
+concern	1
+stem	1
+tide	1
+c.699 i.4512 p.r s.ohio u.@govmikedewine 2020-08-22 13:45:00+00:00	1
+mansfield	1
+richland	1
+c.700 i.7677 p.r s.vp2016 u.@mike_pence 2020-07-24 22:28:21+00:00	1
+govholcomb	1
+c.701 i.2598 p.r s.massachussetts u.@massgovernor 2020-03-30 20:51:01+00:00	1
+profoundly	1
+selfless	1
+front-lines	1
+world-class	1
+c.702 i.7172 p.r s.west virginia u.@wvgovernor 2020-07-01 16:30:13+00:00	1
+c.703 i.6786 p.r s.utah u.@govherbert 2020-09-02 17:30:00+00:00	1
+vjday	1
+utmost	1
+gratitude	1
+wwii	1
+thousands	1
+clarion	1
+embody	1
+stalwart	1
+c.704 i.3770 p.r s.new hampshire u.@govchrissununu 2020-07-30 19:10:54+00:00	1
+preservation	1
+gap	1
+design	1
+unable	1
+c.705 i.841 p.r s.arizona u.@dougducey 2020-04-07 23:21:56+00:00	1
+generate	1
+payroll	1
+c.706 i.3865 p.r s.new hampshire u.@govchrissununu 2020-04-27 18:59:26+00:00	1
+conclude	1
+c.707 i.7327 p.r s.west virginia u.@wvgovernor 2020-04-11 22:41:01+00:00	1
+nonstop	1
+c.708 i.1123 p.r s.arkansas u.@asahutchinson 2020-11-15 22:19:05+00:00	1
+lag	1
+c.709 i.2653 p.r s.massachussetts u.@massgovernor 2020-03-13 14:38:24+00:00	1
+respiratory	1
+clean	1
+surface	1
+touch	1
+c.710 i.7594 p.r s.northern mariana islands u.@governorcnmi 2020-04-14 05:58:49+00:00	1
+purchased…	1
+c.711 i.3324 p.r s.missouri u.@govparsonmo 2020-04-03 19:43:18+00:00	1
+focused	1
+abuse	1
+neglect	1
+c.712 i.151 p.r s.alabama u.@governorkayivey 2020-03-25 16:17:28+00:00	1
+valuable	1
+c.713 i.3074 p.r s.missouri u.@govparsonmo 2020-06-30 16:28:51+00:00	1
+stlregchamber	1
+sustainability	1
+series	1
+insight	1
+c.714 i.6461 p.r s.tennessee u.@govbilllee 2020-04-08 21:00:00+00:00	1
+corp.	1
+mrc	1
+trained	1
+c.715 i.5179 p.r s.ohio u.@govmikedewine 2020-03-25 15:17:29+00:00	1
+infant	1
+exhibit	1
+c.716 i.853 p.r s.arizona u.@dougducey 2020-04-06 18:48:36+00:00	1
+niaidnews	1
+c.717 i.2956 p.r s.missouri u.@govparsonmo 2020-08-27 18:55:53+00:00	1
+view	1
+researcher	1
+institute	1
+c.718 i.992 p.r s.arizona u.@dougducey 2020-03-24 17:41:46+00:00	1
+c.719 i.7893 p.r s.p2016 u.@realdonaldtrump 2020-08-14 19:02:33+00:00	1
+rental	1
+hurt	1
+c.720 i.4283 p.r s.ohio u.@govmikedewine 2020-11-05 19:05:49+00:00	1
+c.721 i.6832 p.r s.utah u.@govherbert 2020-04-14 20:18:16+00:00	1
+staysafestayhome	1
+c.722 i.1573 p.r s.florida u.@govrondesantis 2020-09-28 13:57:47+00:00	1
+effectiveness	1
+c.723 i.1142 p.r s.arkansas u.@asahutchinson 2020-11-03 19:27:32+00:00	1
+c.724 i.5410 p.r s.ohio u.@govmikedewine 2020-03-13 18:37:07+00:00	1
+daycares	1
+daycare	1
+alternative	1
+c.725 i.6844 p.r s.utah u.@govherbert 2020-04-08 19:42:20+00:00	1
+complete	1
+airport	1
+roadway	1
+staysafe	1
+c.726 i.3922 p.r s.new hampshire u.@govchrissununu 2020-03-30 18:51:24+00:00	1
+c.727 i.2276 p.r s.maryland u.@larryhogan 2020-05-24 15:17:44+00:00	1
+wtop	1
+mdhealthdept	1
+introduce	1
+c.728 i.4330 p.r s.ohio u.@govmikedewine 2020-10-26 13:24:00+00:00	1
+c.729 i.5246 p.r s.ohio u.@govmikedewine 2020-03-20 13:14:00+00:00	1
+compensate	1
+ohiojfs	1
+c.730 i.4293 p.r s.ohio u.@govmikedewine 2020-11-03 19:10:47+00:00	1
+admission	1
+c.731 i.2526 p.r s.massachussetts u.@massgovernor 2020-04-23 18:53:28+00:00	1
+deepest	1
+senwarren	1
+brother	1
+c.732 i.5843 p.npp s.puerto rico u.@wandavazquezg 2020-04-02 01:01:26+00:00	1
+sostuvimos	1
+importante	1
+laboratorios	1
+clínicos	1
+hospitales	1
+planes	1
+médicos	1
+cómo	1
+agilizar	1
+toma	1
+muestras	1
+análisis	1
+pruebas	1
+c.733 i.7864 p.r s.p2016 u.@realdonaldtrump 2020-10-12 20:24:48+00:00	1
+dodges	1
+sending	1
+patients	1
+homes	1
+breitbartnews	1
+blow	1
+convention	1
+c.734 i.6915 p.r s.vermont u.@govphilscott 2020-08-19 18:08:05+00:00	1
+intend	1
+expense	1
+c.735 i.7258 p.r s.west virginia u.@wvgovernor 2020-05-07 14:30:13+00:00	1
+c.736 i.5727 p.npp s.puerto rico u.@wandavazquezg 2020-08-16 12:07:25+00:00	1
+sectores	1
+se	1
+encuentran	1
+trabajos	1
+relacionados	1
+son	1
+personas	1
+edad	1
+avanzada	1
+tenido	1
+largas	1
+filas	1
+exponiéndose	1
+contagiarse.los	1
+trabajan	1
+situaciones	1
+relacionadas	1
+tampoco	1
+tienen	1
+mucho	1
+tiempo	1
+gestiones	1
+c.737 i.3283 p.r s.missouri u.@govparsonmo 2020-04-14 21:37:39+00:00	1
+robot	1
+uv	1
+light	1
+c.738 i.7845 p.r s.p2016 u.@realdonaldtrump 2020-11-14 15:23:07+00:00	1
+needs	1
+c.739 i.4356 p.r s.ohio u.@govmikedewine 2020-10-20 18:18:50+00:00	1
+broad	1
+initiate	1
+c.740 i.2027 p.r s.indiana u.@govholcomb 2020-08-26 17:30:04+00:00	1
+c.741 i.1540 p.r s.arkansas u.@asahutchinson 2020-03-20 23:40:00+00:00	1
+locate	1
+otherwise	1
+undetected	1
+c.742 i.7311 p.r s.west virginia u.@wvgovernor 2020-04-17 02:00:05+00:00	1
+stayhomewv	1
+c.743 i.3738 p.r s.new hampshire u.@govchrissununu 2020-10-02 19:05:16+00:00	1
+checked	1
+nhec_membernews	1
+lempster	1
+equitable	1
+c.744 i.5411 p.r s.ohio u.@govmikedewine 2020-03-13 18:36:16+00:00	1
+letter	1
+mike_pence	1
+c.745 i.7589 p.r s.northern mariana islands u.@governorcnmi 2020-04-16 11:40:15+00:00	1
+c.746 i.2859 p.r s.missouri u.@govparsonmo 2020-10-19 15:41:46+00:00	1
+balanced	1
+pillar	1
+c.747 i.229 p.r s.alaska u.@govdunleavy 2020-08-11 23:27:10+00:00	1
+c.748 i.3092 p.r s.missouri u.@govparsonmo 2020-06-18 18:26:58+00:00	1
+electric	1
+co-ops	1
+co-op	1
+c.749 i.2842 p.r s.missouri u.@govparsonmo 2020-10-26 17:48:31+00:00	1
+met	1
+c.750 i.2534 p.r s.massachussetts u.@massgovernor 2020-04-22 00:42:22+00:00	1
+mass_211	1
+c.751 i.1757 p.r s.florida u.@govrondesantis 2020-02-06 15:42:03+00:00	1
+tornado	1
+warning	1
+flsert	1
+c.752 i.4913 p.r s.ohio u.@govmikedewine 2020-05-04 18:08:19+00:00	1
+anniversary	1
+kentstate	1
+shooting	1
+silence	1
+remembrance	1
+c.753 i.6198 p.r s.south dakota u.@govkristinoem 2020-03-11 21:44:13+00:00	1
+c.754 i.1001 p.r s.arizona u.@dougducey 2020-03-23 16:54:24+00:00	1
+taxpayers	1
+c.755 i.715 p.r s.arizona u.@dougducey 2020-05-01 16:15:00+00:00	1
+kick	1
+c.756 i.2786 p.r s.missouri u.@govparsonmo 2020-11-06 17:45:00+00:00	1
+worth	1
+youareworthashot	1
+c.757 i.3912 p.r s.new hampshire u.@govchrissununu 2020-04-08 14:49:13+00:00	1
+newhampshiredot	1
+electronic	1
+mobilize	1
+entry	1
+out-of-state	1
+extended	1
+c.758 i.7445 p.r s.wyoming u.@governorgordon 2020-07-28 19:44:31+00:00	1
+deployment	1
+wyomingpbs	1
+channel	1
+c.759 i.1321 p.r s.arkansas u.@asahutchinson 2020-07-02 21:31:45+00:00	1
+registered	1
+absentee	1
+ballot	1
+desire	1
+arsecofstate	1
+argop	1
+arkdems	1
+c.760 i.5968 p.r s.south carolina u.@henrymcmaster 2020-08-12 19:00:01+00:00	1
+sc	1
+manner	1
+c.761 i.24 p.r s.alabama u.@governorkayivey 2020-08-31 15:08:51+00:00	1
+forestry	1
+state-wide	1
+timber	1
+alforestrycomm	1
+c.762 i.7376 p.r s.west virginia u.@wvgovernor 2020-03-30 21:30:11+00:00	1
+campground	1
+c.763 i.2891 p.r s.missouri u.@govparsonmo 2020-10-02 18:00:57+00:00	1
+gov't	1
+needed	1
+gallon	1
+bottle	1
+c.764 i.7474 p.r s.wyoming u.@governorgordon 2020-04-13 18:11:36+00:00	1
+sadden	1
+johnson	1
+man	1
+underlying	1
+condition	1
+severe	1
+complication	1
+c.765 i.6085 p.r s.south dakota u.@govkristinoem 2020-05-01 15:35:39+00:00	1
+c.766 i.6773 p.r s.utah u.@govherbert 2020-09-23 21:57:19+00:00	1
+decide	1
+orem	1
+provo	1
+orange-level	1
+minimally	1
+curb	1
+c.767 i.5045 p.r s.ohio u.@govmikedewine 2020-04-10 15:52:04+00:00	1
+darrellgreen28	1
+c.768 i.6940 p.r s.vermont u.@govphilscott 2020-06-19 19:38:09+00:00	1
+percent-positivity	1
+few	1
+methodical	1
+c.769 i.818 p.r s.arizona u.@dougducey 2020-04-11 18:38:16+00:00	1
+nmnationalguard	1
+c.770 i.596 p.r s.arizona u.@dougducey 2020-07-06 18:39:49+00:00	1
+maskupaz	1
+c.771 i.7922 p.r s.p2016 u.@realdonaldtrump 2020-06-27 19:55:30+00:00	1
+dead	1
+c.772 i.1178 p.r s.arkansas u.@asahutchinson 2020-10-04 18:02:50+00:00	1
+flags	1
+lower	1
+fallen	1
+firefighters	1
+danger	1
+towards	1
+c.773 i.6283 p.r s.tennessee u.@govbilllee 2020-07-02 15:40:51+00:00	1
+c.774 i.2367 p.r s.massachussetts u.@massgovernor 2020-08-20 20:29:22+00:00	1
+unit	1
+c.775 i.3439 p.r s.nebraska u.@govricketts 2020-09-21 19:02:03+00:00	1
+c.776 i.677 p.r s.arizona u.@dougducey 2020-05-19 00:11:52+00:00	1
+crtribes	1
+nnpreznez	1
+c.777 i.4126 p.r s.north dakota u.@dougburgum 2020-04-06 20:32:27+00:00	1
+c.778 i.4923 p.r s.ohio u.@govmikedewine 2020-04-30 18:14:09+00:00	1
+chambers	1
+smith	1
+c.779 i.7571 p.r s.northern mariana islands u.@governorcnmi 2020-05-01 10:19:16+00:00	1
+ppes	1
+arrive	1
+saipan	1
+c.780 i.5192 p.r s.ohio u.@govmikedewine 2020-03-23 18:42:55+00:00	1
+hiring	1
+freeze	1
+exception	1
+institutional	1
+c.781 i.4436 p.r s.ohio u.@govmikedewine 2020-09-25 13:58:58+00:00	1
+seven	1
+c.782 i.6937 p.r s.vermont u.@govphilscott 2020-06-25 16:08:30+00:00	1
+tire	1
+repeat	1
+nature	1
+c.783 i.5877 p.npp s.puerto rico u.@wandavazquezg 2020-03-21 16:16:57+00:00	1
+comunicación	1
+mediante	1
+teleconferencia	1
+alcalde	1
+alcaldesas	1
+interagencial	1
+c.784 i.525 p.r s.arizona u.@dougducey 2020-08-10 20:51:25+00:00	1
+c.785 i.7962 p.r s.p2016 u.@realdonaldtrump 2020-05-10 11:48:52+00:00	1
+handling	1
+infectious	1
+obama/sleepy	1
+poll	1
+c.786 i.7165 p.r s.west virginia u.@wvgovernor 2020-07-07 19:07:47+00:00	1
+discriminate	1
+c.787 i.6402 p.r s.tennessee u.@govbilllee 2020-04-23 16:00:00+00:00	1
+c.788 i.7093 p.r s.west virginia u.@wvgovernor 2020-08-31 16:40:59+00:00	1
+c.789 i.6792 p.r s.utah u.@govherbert 2020-08-12 17:00:24+00:00	1
+efficacy	1
+overview	1
+evidence	1
+maskuputah	1
+c.790 i.7892 p.r s.p2016 u.@realdonaldtrump 2020-08-15 15:35:26+00:00	1
+ia	1
+nm	1
+iagovernor	1
+louisianagov	1
+govmlg	1
+promptly	1
+approved	1
+c.791 i.2748 p.r s.mississippi u.@tatereeves 2020-03-16 16:10:51+00:00	1
+c.792 i.1077 p.r s.arizona u.@dougducey 2020-03-16 00:59:59+00:00	1
+azabgc	1
+c.793 i.3010 p.r s.missouri u.@govparsonmo 2020-08-04 13:41:35+00:00	1
+moeducation	1
+reactive	1
+c.794 i.4627 p.r s.ohio u.@govmikedewine 2020-07-23 18:25:24+00:00	1
+category	1
+define	1
+c.795 i.7870 p.r s.p2016 u.@realdonaldtrump 2020-10-07 14:51:29+00:00	1
+radical	1
+left	1
+caught	1
+non	1
+friendly	1
+transfer	1
+spied	1
+campaign	1
+went	1
+coup	1
+entitled	1
+voters	1
+years	1
+c.796 i.7525 p.r s.northern mariana islands u.@governorcnmi 2020-08-10 11:07:54+00:00	1
+arrival	1
+c.797 i.1301 p.r s.arkansas u.@asahutchinson 2020-07-21 18:30:45+00:00	1
+c.798 i.2244 p.r s.indiana u.@govholcomb 2020-03-12 02:18:23+00:00	1
+dr	1
+box	1
+association	1
+c.799 i.6825 p.r s.utah u.@govherbert 2020-04-22 19:52:24+00:00	1
+c.800 i.3378 p.r s.missouri u.@govparsonmo 2020-03-19 21:26:58+00:00	1
+strategic	1
+stockpile	1
+c.801 i.1203 p.r s.arkansas u.@asahutchinson 2020-09-13 21:18:33+00:00	1
+better	1
+c.802 i.5506 p.r s.oklahoma u.@govstitt 2020-10-15 15:41:19+00:00	1
+vision	1
+steady	1
+appoint	1
+needle	1
+c.803 i.4186 p.r s.north dakota u.@dougburgum 2020-03-05 22:55:36+00:00	1
+c.804 i.329 p.r s.alaska u.@govdunleavy 2020-04-17 23:00:20+00:00	1
+methodically	1
+c.805 i.7511 p.r s.wyoming u.@governorgordon 2020-03-18 22:01:11+00:00	1
+strain	1
+covid19wy	1
+c.806 i.3893 p.r s.new hampshire u.@govchrissununu 2020-04-11 16:56:36+00:00	1
