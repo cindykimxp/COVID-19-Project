@@ -25,12 +25,12 @@ def main():
             string_to_add += line
 
     allsent = ' '.join(alltweets)
-    portion = allsent[0:len(allsent)//3000]
+    portion = allsent[0:len(allsent)//3500]
     
     #display a graph showing the network of keywords
-    #NOTE: since we have so many, cut down the numbers of keywords to a portion
+    #NOTE: cut down the text to a portion to cut down number of keywords
     displayGraph(get_graph(portion))
-    output.write(keywords(allsent))
+    output.write(keywords(allsent, words=100, lemmatize=True))
 
     tweets.close()
     output.close()
