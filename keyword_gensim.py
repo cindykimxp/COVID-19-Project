@@ -25,16 +25,15 @@ def main():
             string_to_add += line
 
     allsent = ' '.join(alltweets)
-    portion = allsent[0:len(allsent)//3500]
+    portion = allsent[0:len(allsent)//1000]
     
     #display a graph showing the network of keywords
     #NOTE: cut down the text to a portion to cut down number of keywords
     displayGraph(get_graph(portion))
     output.write(keywords(allsent, words=100, lemmatize=True))
-
+    
     tweets.close()
     output.close()
-
 
 def displayGraph(textGraph):
     graph = nx.Graph()
@@ -44,13 +43,14 @@ def displayGraph(textGraph):
         graph.add_weighted_edges_from([(edge[0], edge[1], textGraph.edge_weight(edge))])
 
         textGraph.edge_weight(edge)
-    pos = nx.spring_layout(graph)
+    pos = nx.spring_layout(graph, scale=5)
     plt.figure()
 
-    nx.draw(graph, pos, edge_color = 'black', width=1, linewidths=1,
-            node_size=500, node_color='seagreen', alpha=0.9,
-            labels={node: node for node in graph.nodes()})
+    nx.draw(graph, pos, edge_color = 'grey', width=1, linewidths=1,
+            node_size=50, node_color='seagreen', alpha=0.9,
+            labels={node: node for node in graph.nodes()}, font_size=5)
     plt.axis('off')
+    plt.savefig("graph.pdf")
     plt.show()
 
 main()
