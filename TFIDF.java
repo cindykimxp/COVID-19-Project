@@ -2,6 +2,7 @@ package final_project;
 import java.util.Scanner;
 import java.io.File;
 import java.util.ArrayList;
+import java.util.List;
 import java.io.FileWriter;
 
 
@@ -23,39 +24,54 @@ public class TFIDF{
 				
 			FileWriter myWriter = new FileWriter("/users/jingyi/desktop/NLP_Final_Project/dem_dev_res.txt");
 			int counter  = 0;
-			for(int f = counter; f < counter + 10; f++) {
-				double min = Double.NEGATIVE_INFINITY;
-				ArrayList<TFIDFword> RepTFIDFRes =  TFIDFword.TF(repDocSet.get(f), demDocSet);
-				//System.out.println(RepTFIDFRes);
-				TFIDFword maxWord = new TFIDFword();
-				for(int i = 0; i < RepTFIDFRes.size(); i++) {
-					//myWriter.write(RepTFres.get(i).getWord());
-					double currentTFIDF = RepTFIDFRes.get(i).getTFIDF();
-					//System.out.println(currentTFIDF);
-					if(currentTFIDF > min) {
-						//System.out.print(RepTFIDFRes.get(i).getWord() + ": ");
-						min = currentTFIDF;
-						//System.out.println(min);
-						maxWord.setWord(RepTFIDFRes.get(i).getWord());
-						maxWord.setTFIDF(min);
+			boolean lock = true;
+			System.out.println(demDocSet.size());
+			System.out.println(repDocSet.size());
+			while(lock) {
+				for(int f = counter; f < counter + 10; f++) {
+					System.out.println(f);
+					if((f + 10) >= repDocSet.size() || (f + 10) >= demDocSet.size()) {
+						
+						mainCalculate(demDocSet, repDocSet, DemMaxRes, f, demDocSet.size());
+						lock = false;
+						break;
 					}
-					//myWriter.write(RepTFres.get(i).getTFIDF());
+					else {
+						mainCalculate(demDocSet, repDocSet, DemMaxRes, f, f + 10);
+					}
 				}
-				DemMaxRes.add(maxWord);
-			}	
-			
+				counter += 10;
+			}
 			
 			for(int j = 0; j < DemMaxRes.size(); j++) {
-				//System.out.print(DemMaxRes.get(j).getWord() + " ");
+				System.out.println(DemMaxRes.get(j).getWord() + " ");
 				myWriter.write(DemMaxRes.get(j).getWord() + " ");
-				//System.out.println(DemMaxRes.get(j).getTFIDF());
 				String maxTFIDF = String.valueOf(DemMaxRes.get(j).getTFIDF());
+				System.out.println(maxTFIDF);
 				myWriter.write(maxTFIDF);
 				myWriter.write("\n");
 			}
 		
 		demSC.close();
 		//repSC.close();
+	}
+	
+	public static void mainCalculate(ArrayList<ArrayList<String>> comparedDataSet, ArrayList<ArrayList<String>> comparingDataSet,  ArrayList<TFIDFword> DemMaxRes, int currentIndex, int endingIndex) {
+		double min = Double.NEGATIVE_INFINITY;
+		ArrayList<ArrayList<String>> copyOfDataSet = comparedDataSet;
+		ArrayList<TFIDFword> comparingTFIDFRes =  TFIDFword.TF(comparingDataSet.get(currentIndex), copyOfDataSet.subList(currentIndex, endingIndex));
+		TFIDFword maxWord = new TFIDFword();
+		for(int i = 0; i < comparingTFIDFRes.size(); i++) {
+			double currentTFIDF = comparingTFIDFRes.get(i).getTFIDF();
+			//System.out.println(currentTFIDF);
+			if(currentTFIDF > min) {
+				min = currentTFIDF;
+				maxWord.setWord(comparingTFIDFRes.get(i).getWord());
+				maxWord.setTFIDF(min);
+				//System.out.println(maxWord);
+			}
+		}
+		DemMaxRes.add(maxWord);
 	}
 
 	
@@ -149,7 +165,7 @@ class TFIDFword{
 		}
 	
 	
-	public static ArrayList<TFIDFword> TF(ArrayList<String> doc, ArrayList<ArrayList<String>> docSet) {
+	public static ArrayList<TFIDFword> TF(ArrayList<String> doc, List<ArrayList<String>> list) {
 		ArrayList<TFIDFword> TFwords = new ArrayList<TFIDFword>();
 		ArrayList<String> searchedWords = new ArrayList<String>();
 		for(int i = 0; i < doc.size(); i++) {
@@ -162,12 +178,9 @@ class TFIDFword{
 					}
 				}
 				TFIDFword word = new TFIDFword(targetWord, counter / doc.size());
-				IDF(docSet, word);
-				//System.out.println(word.getWord());
-				//System.out.println(word.getFullOcurrence());
+				IDF(list, word);
 				if(word.getFullOcurrence() != -1) {
-					//System.out.println(word.getFullOcurrence());
-					double TFIDF = Math.round(counter * Math.log(docSet.size() * 1.0 / word.getFullOcurrence()) * 100.0) / 100.0;
+					double TFIDF = Math.round(counter * Math.log(list.size() * 1.0 / word.getFullOcurrence()) * 100.0) / 100.0;
 					//System.out.println(TFIDF);
 					word.setTFIDF(TFIDF);
 					TFwords.add(word);
@@ -177,10 +190,10 @@ class TFIDFword{
 		return TFwords;
 	}
 	
-	public static void IDF(ArrayList<ArrayList<String>> docSet, TFIDFword targetWord){
+	public static void IDF(List<ArrayList<String>> list, TFIDFword targetWord){
 		int fullOccurrence = 0;
-		for(int docCounter = 0; docCounter < docSet.size(); docCounter++) {
-			ArrayList<String> eachDoc = docSet.get(docCounter);
+		for(int docCounter = 0; docCounter < list.size(); docCounter++) {
+			ArrayList<String> eachDoc = list.get(docCounter);
 			int eachDocSize = eachDoc.size();
 			for(int wordCounter = 0; wordCounter < eachDocSize; wordCounter++) {
 				String currentWord = eachDoc.get(wordCounter);
@@ -197,66 +210,6 @@ class TFIDFword{
 		targetWord.setFullOccurrence(fullOccurrence);
 		}
 	}
-	
-	/**
-	 * 
-	 * 
 
-		public static ArrayList<TFIDFword> TF(ArrayList<String> doc, ArrayList<TFIDFword> TFIDFwords, int totalDocs) {
-		ArrayList<TFIDFword> TFwords = new ArrayList<TFIDFword>();
-		ArrayList<String> searchedWords = new ArrayList<String>();
-		for(int i = 0; i < doc.size(); i++) {
-			if(!searchedWords.contains(doc.get(i))) {
-				String targetWord = doc.get(i);
-				int counter = 0;
-				for(int j = 0; j < doc.size(); j++) {
-					if(targetWord == doc.get(j)) {
-						counter++;
-					}
-				}
-				TFIDFword word = new TFIDFword(targetWord, counter / doc.size());
-				for(int k = 0; k < TFIDFwords.size(); k++) {
-					TFIDFword currentTFIDFword = TFIDFwords.get(k);
-					if(currentTFIDFword.getWord().equals(targetWord)){
-						int fullOccurrence = currentTFIDFword.getFullOcurrence();
-						word.setFullOccurrence(fullOccurrence);
-						double TFIDF = Math.round(counter * Math.log(totalDocs * 1.0 / currentTFIDFword.getFullOcurrence()) * 100.0) /100.0;
-						word.setTFIDF(TFIDF);
-					}
-				}
-				TFwords.add(word);
-			}
-		}
-		return TFwords;
-	}
-	
-	
-	public static ArrayList<TFIDFword> IDF(ArrayList<ArrayList<String>> docSet){
-		ArrayList<TFIDFword> TFIDFwords = new ArrayList<TFIDFword>();
-		ArrayList<String> searchedIDFwords = new ArrayList<String>();
-		for(int docCounter = 0; docCounter < docSet.size(); docCounter++) {
-			ArrayList<String> eachDoc = docSet.get(docCounter);
-			int eachDocSize = eachDoc.size();
-			for(int wordCounter = 0; wordCounter < eachDocSize; wordCounter++) {
-				String targetWord = eachDoc.get(wordCounter);
-				if(!searchedIDFwords.contains(targetWord)) {
-					TFIDFword newIDFword = new TFIDFword(targetWord, 0);
-					newIDFword.setFullOccurrence(1);
-					TFIDFwords.add(newIDFword);
-					searchedIDFwords.add(targetWord);
-				}
-				else {
-					for(int counter = 0; counter < TFIDFwords.size(); counter++) {
-						TFIDFword currentIDFword = TFIDFwords.get(counter);
-						if(currentIDFword.getWord().equals(targetWord)){
-							currentIDFword.addOneFullOccurrence();
-						}
-					}
-				}
-			}
-		}
-		return TFIDFwords;
-	}
-	*/
 }
 
