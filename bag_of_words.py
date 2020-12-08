@@ -1,12 +1,12 @@
 def main():
-    democrats_file = open('1.source_preprocess/corpora/party_filtered/democrat/dem_test_lemma.txt', 'r')
+    democrats_file = open('1.source_preprocess/corpora/party_filtered/democrat/dem_full_stem.txt', 'r')
     read_df = democrats_file.readlines()
     demo_words = {}
 
     bagofwords_d = open('democrats_bagofwords.txt', 'w')
     bagofwords_r = open('republicans_bagofwords.txt', 'w')
     
-    repub_file = open('1.source_preprocess/corpora/party_filtered/republican/rep_test_lemma.txt', 'r')
+    repub_file = open('1.source_preprocess/corpora/party_filtered/republican/rep_full_stem.txt', 'r')
     read_rf = repub_file.readlines()
     repub_words = {}
     

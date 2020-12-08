@@ -5,10 +5,10 @@ import matplotlib.pyplot as plt
 import re
 
 def main():
-    tweets = open('1.source_preprocess/corpora/tweets.txt', 'r')
+    tweets = open('1.source_preprocess/corpora/party_filtered/republican/rep_tweets.txt', 'r')
     read_tweets = tweets.readlines()
 
-    output = open('keywords_gensim.txt', 'w')
+    output = open('keywords_gensim_repub.txt', 'w')
 
     alltweets = []
     string_to_add = ""
