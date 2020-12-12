@@ -5,7 +5,6 @@ Keyword: hutchinson, frequency: 149
 Keyword: south, difference: 137
 Keyword: realdonaldtrump, difference: 125
 Keyword: preparation, difference: 120
-Keyword: stayhomeohio, frequency: 132
 Keyword: toll-free, difference: 128
 Keyword: west, difference: 121
 Keyword: provides, difference: 110
