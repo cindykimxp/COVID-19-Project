@@ -1,0 +1,13 @@
+Keyword: ('new', 'jersey'), difference: 396
+Keyword: ('new', 'mexico'), frequency: 316
+Keyword: ('lagov', 'laleg'), frequency: 270
+Keyword: ('updat', 'connecticut'), frequency: 171
+Keyword: ('new', 'jerseyan'), frequency: 171
+Keyword: ('governor', 'beshear'), frequency: 138
+Keyword: ('covid-19', 'connecticut'), frequency: 136
+Keyword: ('updat', 'kentuckian'), frequency: 134
+Keyword: ('new', 'york'), difference: 79
+Keyword: ('new', 'yorker'), difference: 66
+Keyword: ('jersey', 'new'), difference: 64
+Keyword: ('louisiana', 'respons'), difference: 57
+Keyword: ("n't", 'forget'), difference: 12
